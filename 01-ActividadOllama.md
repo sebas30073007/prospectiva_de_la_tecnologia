@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Equipo de cómputo con presupuesto
+title: Actividad 1: Uso de Ollama
 nav_order: 2
 ---
 
-# Ejercicio: selección de equipo de cómputo con presupuesto definido
+# Actividad 1: Uso de Ollama
 
 ## 1) Componentes
