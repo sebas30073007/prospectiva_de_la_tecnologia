@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
 
 # Prácticas Verano 2026: Prospectiva Tecnología
