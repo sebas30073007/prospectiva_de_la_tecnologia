@@ -579,49 +579,87 @@ En lugar de preguntar vagamente "¿Cómo configuro MQTT?", el estudiante formula
 
 ## 4. Evidencias
 
-Las siguientes capturas documentan las etapas clave de la práctica: desde la verificación de los modelos instalados hasta la ejecución de prompts en modelos de distintos tamaños, incluyendo un caso real de alucinación.
-
-### Modelos instalados (`ollama ls`)
-
-Se verificaron 6 modelos de chat y 1 modelo de embeddings disponibles localmente.
-
-![Listado de modelos instalados con ollama ls](../assets/images/practica-1/01-ollama-ls.png)
+Las siguientes capturas documentan las etapas clave de la práctica en orden lógico: instalación, verificación de modelos, comportamiento de un modelo de embeddings, comparación de respuestas y prueba multimodal.
 
 ---
 
-### Prompt 1 — Phi4-mini: explicación conceptual
+### Instalación y verificación inicial
 
-Phi4-mini (3.8B, Microsoft) entregó una respuesta clara y bien estructurada diferenciando IA, ML, IA Generativa y LLM dentro del límite de 200 palabras.
+Se verificó la versión de Ollama, se descargó el modelo `llama3.2:3b` y se listaron los modelos disponibles en ese momento.
 
-![Prompt 1 ejecutado en Phi4-mini](../assets/images/practica-1/02-prompt1-phi4mini.png)
+![ollama version, pull llama3.2:3b y ollama ls](../assets/images/practica-1/01-ollama-version-pull-ls.png)
 
 ---
 
-### Prompt 3 — TinyLlama: alucinación grave
+### Lista final de modelos instalados
 
-TinyLlama (1.1B) confundió "LLM" (Large Language Model) con "LL.M." (Master of Laws), respondiendo sobre riesgos de inscribirse en un posgrado en derecho. Es el caso más claro de alucinación observado en la práctica.
+Con todos los modelos descargados, `ollama ls` muestra los 6 modelos de chat y el modelo de embeddings.
 
-![TinyLlama confunde LLM con LL.M. — alucinacion grave](../assets/images/practica-1/03-tinyllama-alucinacion.png)
+![ollama ls con todos los modelos](../assets/images/practica-1/02-ollama-ls.png)
+
+---
+
+### Modelo de embeddings: nomic-embed-text
+
+Al ejecutar `nomic-embed-text` con un prompt de texto, la salida es un vector numérico de 768 dimensiones, no lenguaje natural. Esto evidencia la diferencia entre un modelo de embeddings y un modelo de chat.
+
+![nomic-embed-text devuelve un vector numerico](../assets/images/practica-1/03-nomic-embed-text.png)
+
+---
+
+### Prompt 1 — Phi4-mini: respuesta correcta en español
+
+Phi4-mini (3.8B, Microsoft) diferenció correctamente IA, ML, IA Generativa y LLM en un tono académico y dentro del límite de 200 palabras.
+
+![Prompt 1 en Phi4-mini](../assets/images/practica-1/04-phi4mini-p1.png)
+
+---
+
+### Prompt 3 — TinyLlama en español: alucinación grave
+
+TinyLlama (1.1B) confundió "LLM" (Large Language Model) con "LL.M." (Master of Laws), respondiendo sobre riesgos de inscribirse en un posgrado en derecho. Los ejemplos mencionan Harvard y Oxford en contexto jurídico.
+
+![TinyLlama en español confunde LLM con LL.M.](../assets/images/practica-1/05-tinyllama-es-alucinacion.png)
+
+---
+
+### Prompt 3 — TinyLlama en inglés: la alucinación persiste
+
+Al repetir el mismo prompt en inglés, TinyLlama **sigue confundiendo LLM con LL.M.** Sus tres riesgos hablan de falsas acusaciones en programas de derecho, conflictos de interés en facultades y conducta académica impropia en escuelas de leyes.
+
+![TinyLlama en inglés sigue alucinando sobre programas de derecho](../assets/images/practica-1/06-tinyllama-en-alucinacion.png)
 
 ---
 
 ### Prompt 3 — Gemma3 12B: contraste con modelo grande
 
-El mismo prompt en Gemma3 12B produjo tres riesgos correctos y bien ejemplificados: fabricación de información, plagio involuntario y sesgo.
+El mismo prompt en Gemma3 12B produjo tres riesgos correctos — fabricación de información, plagio involuntario y sesgo — con ejemplos precisos y pertinentes.
 
-![Prompt 3 ejecutado en Gemma3 12B — respuesta correcta](../assets/images/practica-1/04-gemma3-12b-p3.png)
-
----
-
-### Prompt 4 — Qwen3 8B: uso con ESP32
-
-Qwen3 8B propuso un ejemplo concreto de uso complementario de un LLM durante el desarrollo con ESP32, sin sustituir el aprendizaje práctico del estudiante.
-
-![Prompt 4 ejecutado en Qwen3 8B — ejemplo con ESP32](../assets/images/practica-1/05-qwen3-p4-esp32.png)
+![Gemma3 12B responde correctamente el Prompt 3](../assets/images/practica-1/07-gemma3-12b-p3.png)
 
 ---
 
-## 4. Reflexión
+### Prompt 4 — Qwen3 8B: apoyo al desarrollo con ESP32
+
+Qwen3 8B propuso un flujo concreto: el LLM genera código de partida, explica conceptos, ayuda a depurar y recomienda recursos, sin sustituir la práctica directa con el hardware.
+
+![Qwen3 8B con ejemplo de ESP32](../assets/images/practica-1/08-qwen3-p4-esp32.png)
+
+---
+
+### Prueba multimodal — Gemma3 12B analizando una imagen
+
+Gemma3 12B es un modelo multimodal. Al pasarle una imagen de engranajes CAD, identificó correctamente los dos engranajes, sus características y el contexto de ingeniería mecánica.
+
+![Gemma3 12B describiendo la imagen de engranajes](../assets/images/practica-1/09-gemma3-12b-multimodal.png)
+
+**Imagen analizada:**
+
+![Engranajes CAD analizados por Gemma3 12B](../assets/images/practica-1/10-imagen-analizada.png)
+
+---
+
+## 5. Reflexión
 
 ### ¿Qué modelo fue más fácil de instalar y ejecutar?
 
