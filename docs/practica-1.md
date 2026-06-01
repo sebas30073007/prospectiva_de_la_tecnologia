@@ -577,6 +577,50 @@ En lugar de preguntar vagamente "¿Cómo configuro MQTT?", el estudiante formula
 
 ---
 
+## 4. Evidencias
+
+Las siguientes capturas documentan las etapas clave de la práctica: desde la verificación de los modelos instalados hasta la ejecución de prompts en modelos de distintos tamaños, incluyendo un caso real de alucinación.
+
+### Modelos instalados (`ollama ls`)
+
+Se verificaron 6 modelos de chat y 1 modelo de embeddings disponibles localmente.
+
+![Listado de modelos instalados con ollama ls](../assets/images/practica-1/01-ollama-ls.png)
+
+---
+
+### Prompt 1 — Phi4-mini: explicación conceptual
+
+Phi4-mini (3.8B, Microsoft) entregó una respuesta clara y bien estructurada diferenciando IA, ML, IA Generativa y LLM dentro del límite de 200 palabras.
+
+![Prompt 1 ejecutado en Phi4-mini](../assets/images/practica-1/02-prompt1-phi4mini.png)
+
+---
+
+### Prompt 3 — TinyLlama: alucinación grave
+
+TinyLlama (1.1B) confundió "LLM" (Large Language Model) con "LL.M." (Master of Laws), respondiendo sobre riesgos de inscribirse en un posgrado en derecho. Es el caso más claro de alucinación observado en la práctica.
+
+![TinyLlama confunde LLM con LL.M. — alucinacion grave](../assets/images/practica-1/03-tinyllama-alucinacion.png)
+
+---
+
+### Prompt 3 — Gemma3 12B: contraste con modelo grande
+
+El mismo prompt en Gemma3 12B produjo tres riesgos correctos y bien ejemplificados: fabricación de información, plagio involuntario y sesgo.
+
+![Prompt 3 ejecutado en Gemma3 12B — respuesta correcta](../assets/images/practica-1/04-gemma3-12b-p3.png)
+
+---
+
+### Prompt 4 — Qwen3 8B: uso con ESP32
+
+Qwen3 8B propuso un ejemplo concreto de uso complementario de un LLM durante el desarrollo con ESP32, sin sustituir el aprendizaje práctico del estudiante.
+
+![Prompt 4 ejecutado en Qwen3 8B — ejemplo con ESP32](../assets/images/practica-1/05-qwen3-p4-esp32.png)
+
+---
+
 ## 4. Reflexión
 
 ### ¿Qué modelo fue más fácil de instalar y ejecutar?
