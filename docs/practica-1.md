@@ -350,11 +350,15 @@ for id, score in sorted_results[:3]:
 
 > **Observación:** Este modelo confundió "LLM" (Large Language Model) con "LL.M." (Master of Laws), un título académico jurídico. Respondió sobre riesgos de inscribirse en un programa de posgrado en derecho. Es un ejemplo real e involuntario de la limitación más crítica de los modelos pequeños: la **alucinación por ambigüedad de tokens**.
 
-1. **Riesgo de falta de estatus académico:** Aunque el programa LLM puede ser exitoso, a menudo los alumnos no han pasado exámenes de admisión y no reciben reconocimiento de la universidad a la que se unen.
-2. **Riesgo de confianza:** Al asistir al LLM, los alumnos deberán ser capacitados en un campo específico y prepararse para competir con otros alumnos con mayores recursos fiscales.
-3. **Riesgo de expectativas bajas:** El precio de acceder al LLM depende de la universidad. Si el programa LLM tiene un precio bajo, los alumnos podrían pensar que las expectativas son demasiado bajas.
+1. Riesgo de falta de estatus en la prestigiosa universidad de su preferencia: Aunque el programa LLM puede ser exitoso, a menudo los alumnos no han pasado exámenes de admisión y no reciben reconocimiento de la universidad a la que se unen. Este problema podría provocar que las expectativas del programa sean excesivamente bajas en su nivel de rendimiento, lo que puede dar lugar a una falta de estatus académico en la universidad en la que se realice el programa.
 
-*(Respuesta completamente fuera de contexto — habla de un programa de posgrado en derecho, no de modelos de lenguaje)*
+2. Riesgo de confianza: Al asistir al LLM, los alumnos deberán ser capacitados en un campo específico y prepararse para competir con otros alumnos con mayores recursos fiscales. Los recuerdos familiares pueden provocar confianza en su capacidad para competir con otros alumnos más jovenes y ricos, pero esto puede ser desencadenante en cuanto a la calidad de su carrera profesional después del programa.
+
+3. Riesgo de que las expectativas del programador sean demasiado bajas: El precio de acceder al LLM depende de la universidad y su lugar en la lista de referencia de la prestigiosa universidad de su preferencia. Si el programa LLM tiene un precio bajo, los alumnos podrían pensar que las expectativas son demasiado bajas y rechazar el programa. Al contrario, si el programa LLM se muestra apreciablemente más caro, algunos alumnos pueden considerar que sus expectativas son exageradas y no competirán por la plaza.
+
+Ejemplos breves:
+1. Estudio de un tema de derecho público en el caso del LL.M. De Harvard, se prepara para una carrera profesional como abogado o empresario. Sin embargo, después del programa, su carrera profesional puede ser muy diferente a lo que esperaba.
+2. Un estudiante de LL.M. De la Universidad de Oxford fue enviado a un curso de verificación en Londres antes de que terminara su primer semestre. Al inicio del curso, el alumno salió de su cuarto en Londres y empezó a trabajar como cocinero en una tienda. Aunque el curso se completó exitosamente, el alumno no puede esperar un puesto de trabajo como chef de cocina, ya que las expectativas de la universidad son muy altas.
 
 </details>
 
