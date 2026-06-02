@@ -1,0 +1,571 @@
+timestamp,experiment_id,model,cycle,prompt,temperature,top_p,top_k,min_p,num_ctx,num_predict,repeat_penalty,response,total_duration_s,wall_time_s,load_duration_s,prompt_eval_count,eval_count,eval_duration_s,tokens_per_second,response_chars,quality_score,notes
+2026-06-02T16:40:46.556201,comparacion_modelos,llama3.2:3b,1,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un modelo de lenguaje grande (LLM) puede actuar como asistente de alto nivel para un robot móvil universitario aprovechando sus capacidades de procesamiento y análisis de datos. El LLM podría proporcionar instrucciones, identificar obstáculos y sugerir rutas más seguras a través del campus, ayudar a detectar objetos o personas en el entorno y ofrecer recomendaciones para mantenerse a salvo. También podría proporcionar información sobre la historia local, eventos importantes y ubicaciones de servicios esenciales. Además, podría aprender y adaptarse al comportamiento del robot, mejorando su desempeño con el tiempo. Esto aumentaría la eficiencia y seguridad del robot en su operación diaria.",2.0626079,4.1535905,0.1442217,55,160,1.5258265,104.86120145376948,696,10,
+2026-06-02T16:40:50.712880,comparacion_modelos,llama3.2:3b,2,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un modelo de lenguaje grande (LLM) como asistente de alto nivel para un robot móvil universitario podría ser utilizado para:
+
+*   Interpretar y analizar datos sensoriales del entorno
+*   Tomar decisiones basadas en la información disponible
+*   Realizar cálculos matemáticos complejos
+*   Comunicarse con otros dispositivos o sistemas
+
+Esto permitiría al robot tomar acciones precisas y eficientes, como navegar por un campus universitario, detectar objetos o personas en su camino, realizar tareas de mantenimiento o incluso proporcionar ayuda a los estudiantes. El LLM también podría aprender y adaptarse a nuevas situaciones y entornos, lo que aumentaría la autonomía del",2.0459733,4.116609100000001,0.1516112,55,160,1.702685,93.96923094994082,674,10,
+2026-06-02T16:40:54.829966,comparacion_modelos,llama3.2:3b,3,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un modelo de lenguaje grande (LLM) puede servir como asistente de alto nivel para un robot móvil universitario de varias maneras:
+
+1. **Generación de instrucciones**: el LLM puede generar instrucciones claras y precisas para el robot, basándose en la información proporcionada por los usuarios.
+2. **Análisis de datos**: el LLM puede analizar los datos sensoriales del robot y ofrecer recomendaciones o ajustes para mejorar su rendimiento.
+3. **Comunicación con humanos**: el LLM puede actuar como intermediario entre el robot y los humanos, traduciendo y facilitando la comunicación efectiva.
+4. **Aprendizaje automático**: el LLM",2.0241575,4.1088901,0.1447367,55,160,1.6985975,94.19535822936275,631,10,
+2026-06-02T16:40:58.939422,comparacion_modelos,llama3.2:3b,4,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un modelo de lenguaje grande (LLM) como asistente de alto nivel para un robot móvil universitario podría ser utilizado para:
+
+- Recopilar y analizar datos sensoriales del entorno, proporcionando recomendaciones de ruta o distancia.
+- Traducir lenguajes humanos a lenguajes programables, permitiendo una comunicación eficiente con los profesores o personal administrativo.
+- Realizar tareas administrativas como la gestión de horarios y mantenimiento del sistema.
+- Proporcionar información y orientación sobre el campus y sus servicios.
+- Identificar posibles problemas técnicos y sugerir soluciones.",1.7757313,3.8408974999999987,0.1498683,55,137,1.4602257,93.82111272250584,600,10,
+2026-06-02T16:41:02.780694,comparacion_modelos,llama3.2:3b,5,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un modelo de lenguaje de gran capacidad (LLM) puede ser utilizado como asistente de alto nivel para un robot móvil universitario de varias maneras:
+
+*   **Recopilación de datos**: el LLM puede procesar y analizar grandes cantidades de información de los sensores del robot, proporcionando al robot información relevante sobre su entorno.
+*   **Inteligencia artificial**: el LLM puede ayudar a tomar decisiones basadas en la información recopilada, permitiendo al robot interactuar de manera más efectiva con su entorno.
+*   **Comunicación**: el LLM puede actuar como intermediario entre el robot y los humanos, proporcionando información relevante y resolviendo problemas comple",2.0068345,4.052056999999998,0.145219,55,160,1.6729307,95.64054267161217,678,10,
+2026-06-02T16:41:06.833163,comparacion_modelos,llama3.2:3b,6,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un modelo de lenguaje grande (LLM) puede ser utilizado como asistente de alto nivel para un robot móvil universitario de varias maneras:
+
+- **Sistema de navegación**: El LLM puede procesar imágenes y datos sensoriales para proporcionar instrucciones de navegación y orientación.
+- **Asistencia en tareas**: Puede entender comandos vocales y responder con acciones específicas, como abrir puertas o cambiar canales.
+- **Detección de objetos**: Utiliza la inteligencia artificial de visión (IAV) para detectar objetos y personas a su alrededor, ayudando al robot a evitar obstáculos.
+- **Apoyo en aprendizaje**: El LLM puede proporcionar retroalimentación",1.9564449,4.025561999999997,0.1483809,55,160,1.6245471,98.48898810012956,653,10,
+2026-06-02T16:41:10.859053,comparacion_modelos,llama3.2:3b,7,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un modelo de lenguaje grande (LLM) puede ser utilizado como asistente de alto nivel para un robot móvil universitario de varias maneras:
+
+*   Reconocimiento de voz y texto: el LLM puede entender comandos y solicitudes del usuario, permitiendo al robot responder a preguntas o realizar tareas específicas.
+*   Generación de respuestas y acciones: el LLM puede generar respuestas personalizadas basadas en la información proporcionada por el usuario.
+*   Análisis de datos: el LLM puede analizar datos sensoriales del entorno, como imágenes o audio, para tomar decisiones informadas.
+
+En resumen, el LLM puede ayudar a que el robot móvil universitario sea más eficiente",1.975094,3.9926071000000007,0.1498677,55,160,1.638566,97.64635663134717,667,10,
+2026-06-02T16:41:14.852040,comparacion_modelos,llama3.2:3b,8,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un modelo de lenguaje grande (LLM) podría servir como asistente de alto nivel para un robot móvil universitario de varias maneras:
+
+*   **Interacción con usuarios**: el LLM podría procesar y responder a comandos y preguntas del usuario, proporcionando información relevante sobre la ubicación actual del robot o sugerencias para su próximo movimiento.
+*   **Navegación**: el LLM podría interpretar señales sensoriales y determinar la posición y orientación del robot, permitiéndole tomar decisiones informadas sobre su ruta.
+*   **Integración con sistemas de aprendizaje automático**: el LLM podría aprender patrones en los datos de movimiento y ubicación del robot, mejorando su capacidad",2.0264292,4.100094800000001,0.1521357,55,160,1.6928046,94.51770157051794,689,10,
+2026-06-02T16:41:18.952496,comparacion_modelos,llama3.2:3b,9,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un modelo de lenguaje grande (LLM) como asistente de alto nivel para un robot móvil universitario podría ser utilizado de varias maneras:
+
+*   Reconocimiento de voz y texto: el LLM podría reconocer comandos vocales o texto para controlar acciones específicas del robot, como cambiar la dirección o activar luces.
+*   Síntesis de audio: el LLM podría generar sonidos o música para interactuar con personas o crear un ambiente agradable.
+*   Generación de texto: el LLM podría generar mensajes personalizados para comunicarse con estudiantes o proporcionar información sobre el robot y su funcionamiento.
+
+Este tipo de asistente ayudaría al robot a ser más interactivo y útil en la vida di",2.0242502,4.089076199999994,0.1562108,55,160,1.6795269,95.26492252074081,687,10,
+2026-06-02T16:41:23.042079,comparacion_modelos,llama3.2:3b,10,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un LLM (Lenguaje Profundo Artificial) como asistente de alto nivel para un robot móvil universitario podría ser utilizado de varias maneras:
+
+*   Recopilar y analizar datos sensoriales del entorno, proporcionando recomendaciones sobre cómo navegar o realizar tareas.
+*   Comprender instrucciones humanas y responder con acciones precisas.
+*   Ayudar a los estudiantes a programar y mantener el robot.
+
+Además de estos usos, un LLM podría aprender patrones en datos de movimiento y adaptarse a nuevas situaciones.",1.5591561,3.6092707000000033,0.1490419,55,122,1.2583852,96.94964626093822,512,10,
+2026-06-02T16:41:26.651534,comparacion_modelos,llama3.2:3b,11,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un LLM (Modelo de Lenguaje Profundo) puede servir como asistente de alto nivel para un robot móvil universitario de varias maneras:
+
+*   Puede procesar y analizar grandes cantidades de datos sensoriales del entorno, proporcionando al robot información relevante para tomar decisiones.
+*   Puede realizar tareas de aprendizaje automático, como reconocimiento de patrones y clasificación de imágenes, para mejorar la precisión del robot.
+*   Puede actuar como un intermediario entre el robot y los usuarios, traduciendo y proporcionando información en diferentes idiomas.
+
+En resumen, un LLM puede ser una herramienta valiosa para ampliar las capacidades de un robot móvil universitario.",2.0257163,4.0784211,0.1510696,55,160,1.6866397,94.86317676501982,685,10,
+2026-06-02T16:41:30.730624,comparacion_modelos,llama3.2:3b,12,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un modelo de lenguaje grande (LLM) puede ser utilizado como asistente de alto nivel para un robot móvil universitario de varias maneras:
+
+- **Análisis de datos**: El LLM puede analizar grandes cantidades de datos sensoriales del robot, como imágenes, sonidos y movimientos.
+- **Tareas de aprendizaje automático**: El LLM puede aprender patrones en los datos y tomar decisiones autónomas para el robot, como reconocimiento de objetos o navegación.
+- **Generación de instrucciones**: El LLM puede generar instrucciones personalizadas para el robot según su objetivo o tarea específica.
+
+Esto podría mejorar la autonomía y eficiencia del robot.",1.966758,4.0241161000000005,0.1449262,55,154,1.651902,93.22586933123152,641,10,
+2026-06-02T16:41:34.755062,comparacion_modelos,llama3.2:3b,13,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un LLM (Lenguaje Profundo Artificial) puede ser utilizado como asistente de alto nivel para un robot móvil universitario integrando sus capacidades en una plataforma de inteligencia artificial. El LLM podría proporcionar al robot información sobre:
+
+*   Rutas y ubicaciones cercanas
+*   Información sobre la historia cultural y científica en las áreas que visite
+*   Comandos de comunicación con otros robots o dispositivos
+
+Además, el LLM podría ayudar a mejorar la eficiencia del robot mediante la optimización de rutas y la toma de decisiones basadas en datos históricos.",1.7748996,3.8182450999999986,0.1523594,55,136,1.4618893,93.0302999002729,574,10,
+2026-06-02T16:41:38.573736,comparacion_modelos,llama3.2:3b,14,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un modelo de lenguaje grande (LLM) como asistente de alto nivel para un robot móvil universitario podría ser utilizado para:
+
+* Reconocer y entender comandos vocales o por pantalla.
+* Generar respuestas claras y concisas sobre el entorno, como localizar puntos de interés o detectar obstáculos.
+* Interactuar con usuarios humanos mediante conversación natural.
+* Integrarse con sensores del robot para procesar datos y tomar decisiones.
+* Ofrecer sugerencias personalizadas basadas en la configuración y características del robot.
+
+Este asistente podría mejorar la eficiencia, seguridad y experiencia del usuario de manera significativa.",1.8800688,3.9216492999999986,0.1478905,55,148,1.558511,94.96243529882048,637,10,
+2026-06-02T16:41:42.495843,comparacion_modelos,llama3.2:3b,15,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un modelo de lenguaje grande (LLM) puede ser utilizado como asistente de alto nivel para un robot móvil universitario mediante la integración de inteligencia artificial y sistemas de control. El LLM podría proporcionar instrucciones y recomendaciones sobre cómo navegar por el campus, identificar recursos y personajes relevantes, y realizar tareas específicas como recopilar datos o realizar experimentos científicos. Además, podrían ser utilizadas técnicas de reconocimiento de voz y visión para interactuar con el robot y proporcionar retroalimentación en tiempo real. Esto permitiría al robot responder de manera más eficiente y efectiva a las necesidades del estudiante.",1.9404794,3.9872674000000004,0.1434832,55,148,1.6021245,92.3773402129485,675,10,
+2026-06-02T16:41:46.483051,comparacion_modelos,llama3.2:3b,16,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un modelo de lenguaje grande (LLM) puede ser utilizado como asistente de alto nivel para un robot móvil universitario mediante una integración en el sistema de control del vehículo. El LLM podría proporcionar recomendaciones y sugerencias sobre la ruta más segura o eficiente, basadas en datos sobre tráfico, condiciones climáticas y eventos actuales. También podría ayudar al robot a entender comandos humanos y responder de manera adecuada. Además, el LLM podría ser utilizado para analizar imágenes y detectar obstáculos en la carretera, permitiendo al robot tomar decisiones más precisas. Esto mejoraría la seguridad y eficiencia del vehículo.",1.9082076,3.9684004,0.1513175,55,148,1.5790077,93.7297519195125,647,10,
+2026-06-02T16:41:50.452402,comparacion_modelos,llama3.2:3b,17,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un modelo de lenguaje grande (LLM) como asistente de alto nivel para un robot móvil universitario podría ser utilizado de varias maneras:
+
+- **Sistema de navegación**: Puede analizar imágenes de la escena y proporcionar instrucciones precisas para el robot.
+- **Interacción humana**: Puede simular conversaciones con estudiantes o profesores, proporcionando información y resolviendo problemas.
+- **Asignación de tareas**: Puede ayudar a programar y asignar tareas al robot según las necesidades del día.
+- **Aprendizaje automático**: Puede aprender patrones en la escena para mejorar la precisión del robot.
+
+Esto mejoraría significativamente la autonomía y ef",2.0276919,4.080185900000004,0.1478075,55,160,1.700741,94.07664071131347,661,10,
+2026-06-02T16:41:54.532989,comparacion_modelos,llama3.2:3b,18,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un LLM (Lenguaje Profundo Artificial) puede ser utilizado como asistente de alto nivel para un robot móvil universitario de varias maneras:
+
+*   **Entendimiento de comandos**: el LLM puede entender y procesar comandos de voz o teclado, permitiendo al robot realizar tareas precisas.
+*   **Análisis de datos**: El LLM puede analizar grandes cantidades de datos, como sensores del entorno, para tomar decisiones informadas y ajustar su comportamiento en consecuencia.
+*   **Generación de respuestas**: el LLM puede generar respuestas personalizadas a las preguntas o solicitudes del usuario, proporcionando información relevante y útil.
+
+Al integrar un L",2.0308009,4.078246800000002,0.1508447,55,160,1.6883731,94.76578370029705,652,10,
+2026-06-02T16:41:58.611783,comparacion_modelos,llama3.2:3b,19,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un modelo de lenguaje grande (LLM) puede ser utilizado como asistente de alto nivel para un robot móvil universitario de varias maneras:
+
+1.  **Entendimiento del entorno**: El LLM puede analizar imágenes y audio del entorno, identificar objetos y personas, y proporcionar información relevante al robot.
+2.  **Comunicación con humanos**: El LLM puede traducir idiomas y asistir en la comunicación con estudiantes, profesores o padres de familia.
+3.  **Resolución de problemas**: El LLM puede ayudar a resolver problemas complejos resolviendo preguntas relacionadas con el entorno y proporcionando soluciones basadas en conocimientos previos.
+
+En resumen",1.9782826,4.02167,0.1463015,55,160,1.6529486,96.79671830085945,653,10,
+2026-06-02T16:42:02.633848,comparacion_modelos,llama3.2:3b,20,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un modelo de lenguaje grande (LLM) puede utilizarse como asistente de alto nivel para un robot móvil universitario de varias maneras:
+
+1. **Rutinas de programación**: El LLM puede ayudar a programar rutinas y algoritmos más complejos.
+2. **Análisis de datos**: Puede analizar y procesar grandes cantidades de datos sensoriales para mejorar la toma de decisiones del robot.
+3. **Comunicación con humanos**: El LLM puede generar respuestas y mensajes efectivos en diferentes idiomas, facilitando la comunicación entre el robot y los usuarios.
+4. **Aprendizaje automático**: Puede ayudar al robot a aprender desde sus experiencias y mejorar su",2.0414513,4.086314999999999,0.1559022,55,160,1.6985415,94.19846379967755,640,10,
+2026-06-02T16:42:06.722666,comparacion_modelos,llama3.2:3b,21,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un modelo de lenguaje grande (LLM) como asistente de alto nivel podría ser utilizado por un robot móvil universitario de varias maneras:
+
+*   Recopilación de información: el LLM podría recopilar y procesar información sobre la ubicación, clima y eventos relevantes en diferentes lugares, lo que ayudaría al robot a tomar decisiones informadas.
+*   Asistencia con tareas: el LLM podría brindar asistencia con tareas como calcular rutas óptimas, identificar objetos de interés o proporcionar información sobre la historia local.
+*   Comunicación efectiva: el LLM podría ayudar al robot a comunicarse de manera efectiva con los humanos, utilizando un lenguaje claro y",2.0314891,4.093278299999994,0.1449357,55,160,1.6985784,94.19641742765597,664,10,
+2026-06-02T16:42:10.816161,comparacion_modelos,llama3.2:3b,22,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un modelo de lenguaje grande (LLM) puede actuar como asistente de alto nivel para un robot móvil universitario utilizando varias técnicas:
+
+1. **Análisis de datos**: el LLM analiza las señales y seniales del robot, identificando patrones y tendencias.
+2. **Generación de instrucciones**: el LLM genera instrucciones personalizadas para el robot, basándose en su análisis de los datos.
+3. **Aprendizaje automático**: el LLM aprende a mejorar sus instrucciones mediante retroalimentación del robot.
+
+Esto permite al robot realizar tareas complejas y precisas, como explorar espacios desconocidos o realizar misiones de investigación.",1.9879361,4.036642700000002,0.1474184,55,160,1.6401983,97.54918048628632,631,10,
+2026-06-02T16:42:14.853321,comparacion_modelos,llama3.2:3b,23,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un modelo de lenguaje grande (LLM) puede ser utilizado como asistente de alto nivel para un robot móvil universitario mediante la integración de su capacidad de procesamiento del lenguaje natural con la tecnología de robótica. El LLM podría ayudar al robot a:
+
+* Comprender y responder a comandos de usuario en idioma natural.
+* Analizar y clasificar información sensorial para tomar decisiones autonomas.
+* Generar respuestas claras y concisas sobre la situación actual o las instrucciones del usuario.
+* Aprender y mejorar su capacidad de procesamiento de lenguaje a través de entrenamientos continuos.
+
+Esto permitiría al robot interactuar más efectivamente con el entorno y los usuarios",2.0418038,4.105141000000003,0.1487119,55,160,1.699837,94.12667214562337,690,10,
+2026-06-02T16:42:18.958779,comparacion_modelos,llama3.2:3b,24,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un modelo de lenguaje grande (LLM) puede actuar como asistente de alto nivel para un robot móvil universitario mediante la integración de tecnologías de inteligencia artificial y automatización. El LLM podría:
+
+- Interpretar comandos verbales de los estudiantes
+- Generar resúmenes de tareas y proyectos
+- Proporcionar información y datos relevantes
+- Realizar cálculos y simulaciones complejas
+- Identificar patrones y tendencias en los datos del robot
+
+Esto permitiría al robot móvil universitario brindar un servicio más eficiente y personalizado a los estudiantes, aumentando su productividad y satisfacción. El LLM podría ser entrenado para adaptarse a las",2.019649,4.081809899999996,0.1486918,55,160,1.688262,94.77201998268042,661,10,
+2026-06-02T16:42:23.040935,comparacion_modelos,llama3.2:3b,25,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un modelo de lenguaje grande (LLM) puede ser utilizado como asistente de alto nivel para un robot móvil universitario de varias maneras:
+
+*   Recopilación de información: El LLM puede buscar y proporcionar información relevante sobre el entorno del robot, incluyendo datos sobre la topografía, los objetos y las personas.
+*   Diálogo con humanos: Puede ayudar al robot a comunicarse con humanos, como estudiantes o profesores, para obtener orientación o resolver problemas.
+*   Análisis de imágenes: El LLM puede analizar imágenes tomadas por cámaras del robot para detectar objetos o personas de interés.",1.884558,3.945315100000002,0.1463844,55,147,1.5698659,93.63857129452904,605,10,
+2026-06-02T16:42:26.986484,comparacion_modelos,llama3.2:3b,26,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un modelo de lenguaje grande (LLM) como asistente de alto nivel puede ser útil para un robot móvil universitario de varias maneras:
+
+*   **Asistencia en navegación**: el LLM puede ayudar al robot a entender instrucciones y ubicaciones mediante el reconocimiento de patrones y palabras clave.
+*   **Detección de objetos y eventos**: el modelo puede identificar objetos, personas o eventos específicos, permitiendo al robot responder adecuadamente.
+*   **Interacción con humanos**: el LLM puede generar respuestas y conversaciones con humanos, proporcionando una experiencia más natural para el usuario.
+*   **Aprendizaje continuo**: el modelo puede aprender de datos y mejorar su precisión sobre tiempo",1.99342,4.055998400000007,0.1549161,55,160,1.6529392,96.79726876826443,701,10,
+2026-06-02T16:42:31.043069,comparacion_modelos,llama3.2:3b,27,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un modelo de lenguaje grande (LLM) puede servir como asistente de alto nivel para un robot móvil universitario de varias maneras:
+
+*   **Recopilación y análisis de datos**: El LLM puede procesar grandes cantidades de información relacionada con la ubicación, el clima, la seguridad, etc. de diferentes lugares.
+*   **Generación de rutas**: Puede crear rutas óptimas para que el robot se dirija a los lugares necesarios, teniendo en cuenta factores como tráfico, construcción y condiciones climáticas actuales.
+*   **Asesoramiento**: El LLM puede brindar información relevante sobre la seguridad y los riesgos asociados con cada ruta.
+*  ",2.0239323,4.070281699999995,0.1456785,55,160,1.6998063,94.12837215628628,637,10,
+2026-06-02T16:42:35.113921,comparacion_modelos,llama3.2:3b,28,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un modelo de lenguaje grande (LLM) puede ser utilizado como asistente de alto nivel para un robot móvil universitario de varias maneras:
+
+- Pide instrucciones y recoge datos sobre su entorno.
+- Genera respuestas a preguntas y solicitudes del robot.
+- Realiza tareas administrativas, como programar rutas o sincronizar datos con otros sistemas.
+- Proporciona información adicional en tiempo real para mejorar la toma de decisiones del robot.
+
+Este asistente podría ayudar al robot a funcionar de manera más eficiente y precisa, mejorando su capacidad para realizar tareas complejas.",1.8360348,3.8800284999999946,0.17436,55,139,1.4998142,92.67814639973405,581,10,
+2026-06-02T16:42:38.993914,comparacion_modelos,llama3.2:3b,29,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un modelo de lenguaje grande (LLM) como asistente de alto nivel para un robot móvil universitario podría ser utilizado de varias maneras:
+
+*   **Interfaz de usuario**: El LLM podría actuar como una inteligencia artificial personalizada que brinde información y apoyo a los estudiantes, proporcionando respuestas a preguntas frecuentes, sugerencias y recomendaciones.
+*   **Detección de problemas**: El modelo podría detectar patrones en las interacciones del robot con los estudiantes para identificar áreas de mejora o posibles problemas técnicos.
+*   **Entrenamiento**: El LLM podría ser utilizado para entrenar al robot en diferentes escenarios y situaciones, permitiendo una mejor adaptación a las necesidades de los",1.9832111,4.038691499999999,0.1437755,55,160,1.659621,96.40755329078145,720,10,
+2026-06-02T16:42:43.033301,comparacion_modelos,llama3.2:3b,30,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un modelo de lenguaje grande (LLM) puede ser utilizado como asistente de alto nivel para un robot móvil universitario proporcionando información y respuestas en tiempo real sobre una variedad de tópicos. El LLM puede procesar comandos vocales o texto, entender el contexto y responder con recomendaciones de rutas, paradas estratégicas, ajustes de configuración, entre otros. Puede también proporcionar asistencia en la resolución de problemas, como la localización del estudiante más cercano a su ubicación actual. Además, puede ser programado para alertar sobre eventos críticos o notificaciones importantes. Esto podría ayudar a mejorar la experiencia general del robot y el uso eficiente de sus recursos.",2.0279101,4.0775323999999955,0.1455508,55,159,1.6933284,93.8979113561197,708,10,
+2026-06-02T16:42:47.111181,comparacion_modelos,phi4-mini:latest,1,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un Large Language Model (LLM) puede servir como una herramienta poderosa para la toma de decisiones y el procesamiento del lenguaje natural, mejorando las capacidades del Robotic Mobile Assistant Universitario (RMAU). Al utilizar un LLM, podemos mejorar significativamente su desempeño en varias tareas:
+
+
+1. **Asistencia Lingüística**: Un RMAU podría comunicarse con estudiantes, profesores y personal académico usando lenguaje natural para entregar información, completar encuestas o asistir con consultas académicas.
+
+
+2. **Tutela Personalizada de Estudiantes**: Analizando datos del rendimiento estudiantil, el LLM puede proporcionar recomendaciones específicas sobre cursos a seguir, áreas clave de enfoque y recursos adicionales para mejorar la comprensión.
+
+
+3. **Aprovechamiento de Recursos Educativos**: El RMAU podría",7.8392176,9.904718599999981,5.6624508,30,160,1.9242467,83.14942153726962,827,10,
+2026-06-02T16:42:57.016057,comparacion_modelos,phi4-mini:latest,2,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un Language Model Large (LLM) puede servir como el cerebro del asistente virtual para robots móviles universitarios, proporcionando varias capacidades clave:
+
+1. Asistencia académica: El LLM puede ayudar a los estudiantes encontrando información relevante sobre temas específicos, ayudándolos con problemas de matemáticas o ciencias usando técnicas de resolución de problemas.
+
+2. Gestión administrativa: Puede facilitar la gestión de horarios, recordatorios y tareas escolares automáticos al comunicarse con el estudiante utilizando una IA conversacional naturalista.
+
+3. Soporte emocional: El LLM puede proporcionar apoyo motivador e inspiración durante momentos difíciles del semestre proporcionando consejos adaptados a las necesidades emocionales individuales del estudiante.
+
+4. Aprendizaje personalizado: Analizando los patrones de aprendizaje y comportamiento, la IA puede ofrecer recursos personalizados al estudiante para",2.474674,4.549502099999984,0.1642262,30,160,2.0698002,77.30214732803678,931,7,
+2026-06-02T16:43:01.565984,comparacion_modelos,phi4-mini:latest,3,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un Lenguaje de Máquina (LLM) puede servir como el cerebro avanzado de un robot móvil universitario, impulsando su capacidad interactiva y adaptativa. Actuando como asistente de alta gama, el LLM puede procesar instrucciones complejas en tiempo real, facilitando tareas académicas al entender consultas verbales o escritas por estudiantes. Puede ayudar a encontrar recursos relevantes dentro del campus o proporcionar asistencia con investigaciones cruzadas multidisciplinarias.
+
+Además, podría guiar al robot para completar misiones diarias como llevar mensajes entre departamentos u organizar citas de estudio grupal. El LLM puede aprender y adaptarse continuamente al comportamiento de los usuarios, mejorando la experiencia educativa proporcionada por el robot a lo largo del tiempo.
+
+Finalmente, con capacidades avanzadas de procesamiento natural, un L",2.417801,4.470338099999992,0.1560453,30,160,2.0173214,79.31309309463529,856,10,
+2026-06-02T16:43:06.036975,comparacion_modelos,phi4-mini:latest,4,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un modelo Lingüístico Avanzado (LLM) puede servir como el cerebro del asistente virtual dentro de un robot móvil universitario, proporcionando una experiencia interactiva y personalizable al usuario. Podría ayudar con tareas académicas complejas, ofreciendo explicaciones detalladas sobre materias, ayudando en la resolución de problemas matemáticos o científicos dynamically.
+
+Además, podría guiar a los estudiantes por el campus para asistir con información del programa, horarios de clases, eventos estudiantiles actuales e incluso sugerir actividades recreativas basándose en intereses. Los LLM también podrían facilitar una plataforma integrada de aprendizaje colaborativo donde alumnos y profesores puedan intercambiarse ideas, trabajar en proyectos conjuntos o participar en discusiones guiadas.
+
+Además, al integrar capacidades lingüísticas avanzadas con el hardware del robot móvil",2.4567227,4.5315094999999985,0.1566051,30,160,2.0533901,77.91992373977064,890,9,
+2026-06-02T16:43:10.568813,comparacion_modelos,phi4-mini:latest,5,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un Large Language Model (LLM) puede servir como el cerebro avanzado de una universidad con capacidades móviles, actuando como asistente integrado y facilitador del entorno académico.
+
+1. Soporte Académico: Proporciona explicaciones detalladas, resúmenes académicos e información personalizada para ayudar a los estudiantes a entender conceptos complejos.
+2. Tutoría Personalizada: Analiza las necesidades de aprendizaje individual de cada estudiante permitiéndole hacer preguntas específicas y recibir orientación adaptada en tiempo real.
+3. Gestión Académica: Ayuda con la gestión administrativa, como el envío automático de correos electrónicos personalizados para recordatorios sobre plazos académicos o asistencia en formularios de solicitud a los estudiantes.
+4. Interacción Social: Desempeña funciones interactivas sociales, respon",2.4242847,4.475016899999986,0.1573001,30,160,2.0194764,79.22845743579872,837,7,
+2026-06-02T16:43:15.044316,comparacion_modelos,phi4-mini:latest,6,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un Large Language Model (LLM) puede servir como una herramienta avanzada para el desarrollo y operación del Robótico Móvil Universitario (UMR). Al estar integrado con el UMR, el LLM proporcionaría capacidades lingüísticas consistentes, permitiendo que el robot entienda y responda a comandos verbales de estudiantes o profesores. Esto facilitaría la asistencia académica al guiar usuarios en tareas como encontrar cursos relevantes, programar citas con asesores educativos o proporcionar explicaciones detalladas sobre temas complejos.
+
+Además, se podría emplear para crear un sistema de tutoría interactivo, donde el UMR utiliza habilidades lingüísticas del LLM para explicar conceptos difíciles y responder preguntas dynamically. Esto mejoraría la experiencia educativa proporcionando apoyo personalizado en cualquier momento del día al estudiantes. El modelo también",2.4715998,4.518643800000007,0.1628625,30,160,2.0341441,78.65716101430573,869,9,
+2026-06-02T16:43:19.563270,comparacion_modelos,phi4-mini:latest,7,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un Large Language Model (LLM) puede servir como asistente de alto nivel para un robot móvil universitario, optimizando la experiencia educativa al proporcionar soporte instantáneo y contextualizado a los estudiantes. El LLM puede ayudar con una amplia gama de tareas: responder preguntas académicas, generar resúmenes de textos complejos, facilitar actividades de aprendizaje colaborativo proporcionando sugerencias relevantes basadas en el contexto del curso o tema específico, traduciendo materiales educativos para superar barreras lingüísticas y ofreciendo apoyo personalizado adaptándose a los intereses individuales.
+
+El LLM podría mejorar las capacidades interactivo de la IA, permitiendo que el robot se comunique con mayor fluidez e inteligencia. También puede ayudar al equipo docente analizando datos sobre rendimiento estudiantil, proporcionando percepciones valiosas para adaptar estrategias",2.4451907,4.5003832999999815,0.1639118,30,160,1.9928718,80.28614785958635,904,8,
+2026-06-02T16:43:24.063694,comparacion_modelos,phi4-mini:latest,8,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un Large Language Model (LLM) puede servir como asistente inteligente para un robot móvil universitario, mejorando la experiencia estudiantil proporcionando soporte personalizado a los usuarios. Podría ayudar con tareas académicas diversas: desde ofrecer explicaciones detalladas y desglosadas de temas difíciles hasta proporcionar resúmenes concisos de textos largos.
+
+Además, el LLM podría guiar físicamente estudiantes hacia sus aulas o recursos universitarios mediante una interacción conversacional fluida mientras coordina las rutas más eficientes en tiempo real. También puede ayudar con tareas administrativas como programar citas académicas y gestionar bibliotecas virtuales para búsquedas interactivas de materiales. El LLM también mejora el aprendizaje interactivo, capaz de responder preguntas dynamically durante presentaciones o debates.
+
+Además, podría ofrecer apoyo emocional proporcionando cons",2.5635755,4.613999699999994,0.1827285,30,160,2.0370053,78.5466783027025,911,7,
+2026-06-02T16:43:28.678362,comparacion_modelos,phi4-mini:latest,9,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un Large Language Model (LLM) puede servir como asistente de alto nivel para un robot móvil universitario al mejorar su capacidad para interactuar con estudiantes, docentes y personal académico. El LLM se utiliza en varias áreas:
+
+1. Soporte Académico: Ayudar a los estudiantes buscando información académica o recursos estudiantiles respondiendo preguntas naturales.
+
+2. Asistencia Técnica: Proporcionar instrucciones claras sobre el campus, servicios técnicos o procedimientos de investigación.
+
+3. Interacción y Aprendizaje Personalizado: Mantener conversaciones con los usuarios para entender sus necesidades educativas e informar sobre cursos relevantes, seminarios o talleres.
+
+4. Respuesta a Peticiones en Lenguaje Natural: Administrar peticiones relacionadas con las bibliotecas, el campus universitario u otras instituciones académicas",2.3621892,4.420662399999998,0.1769606,30,160,1.8724057,85.45156639931186,844,10,
+2026-06-02T16:43:33.099450,comparacion_modelos,phi4-mini:latest,10,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un Large Language Model (LLM) puede servir como asistente avanzado para un robot móvil universitario, proporcionando una interfaz intuitiva y educativa al estudiante. Podría ayudar a encontrar información sobre diversas materias, aclarando dudas con explicaciones simplificadas del LLM en tiempo real durante las sesiones de estudio individuales o grupales. También podría traducir texto entre idiomas, haciendo los recursos educativos accesibles para estudiantes multilingües.
+
+Además, el asistente podría gestionar tareas administrativas como programar citas de tutoría y recordatorios sobre plazos semestrales, mientras ofrece apoyo emocional motivacional, alentando la consistencia en las rutinas académicas. El LLM también puede ayudar con tareas creativas al sugerir materiales relacionados o proporcionar análisis críticos para proyectos académicos.
+
+Por último, el",2.5061249,4.54147900000001,0.167062,30,160,1.9938047,80.24858202009455,872,9,
+2026-06-02T16:43:37.641103,comparacion_modelos,phi4-mini:latest,11,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un Large Language Model (LLM) puede servir como asistente de alto nivel para un robot móvil universitario, mejorando su funcionalidad con capacidades avanzadas del lenguaje natural. Podría utilizarse para:
+
+1. **Interacción con Estudiantes**: Ayudar al robot a entender y responder preguntas relacionadas con temas académicos, dirigir estudiantes hacia recursos apropiados o ayudar en tareas como la búsqueda de información.
+
+2. **Asistencia Universitaria**: Proporcionar consejos sobre horarios de clases, eventos universitarios e incluso ofrecer orientación general relacionada con el sistema académico.
+
+3. **Apoyo Académico**: Ayudar a los estudiantes con sus trabajos académicos proporcionando explicaciones simplificadas, generando resúmenes o ayudando con la redacción y revisión hasta cierto punto.
+
+",2.5050353,4.555087700000001,0.172445,30,160,2.0124666,79.50442506722844,808,10,
+2026-06-02T16:43:42.196595,comparacion_modelos,phi4-mini:latest,12,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un Large Language Model (LLM) puede servir como asistente de alto nivel para un robot móvil universitario, mejorando su funcionalidad y experiencia interactiva con los usuarios. Podría realizar tareas como:
+
+1. Asistente Virtual: Proporcionar información educativa, responder preguntas relacionadas con el programa académico, sugerir recursos estudiantiles y ayudar a gestionar horarios.
+
+2. Ayudante de Servicio Público: Ofrecer asistencia en servicios comunes (por ejemplo, orientación para la biblioteca o cafeterías), responder consultas sobre instalaciones universitarias y ofrecer recomendaciones personalizadas basadas en preferencias pasadas del usuario.
+
+3. Apoyo Lingüístico: Proporcionar ayuda con el aprendizaje de idiomas como traductor, tutor de conversación y fuente de vocabulario relevante al contexto académico.
+
+4. Interacción Intelig",2.5095961,4.55625409999999,0.1716871,30,160,2.0183902,79.27109436024809,853,10,
+2026-06-02T16:43:46.753249,comparacion_modelos,phi4-mini:latest,13,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un Large Language Model (LLM) puede servir como el sistema informativo central y asesoramiento para un robot móvil universitario, proporcionando soporte educativo integral. Podría utilizarse para:
+
+1. Asistencia Académica: Proporcionar explicaciones detalladas sobre temas académicos, ayudar con tareas de investigación e incluso elaborar resúmenes.
+
+2. Respuesta a Preguntas del Estudiante: Ayudar estudiantes con sus dudas en tiempo real, abordando desde conceptos básicos hasta problemas más complejos.
+
+3. Apoyo Lingüístico: Ofrecer asistencia lingüística para estudiantes que aprenden inglés como segundo idioma (ESL), ayudándoles con gramática, vocabulario y pronunciación.
+
+4. Organización de Asistentes: Ayudar a los asistentes humanos en el campus organizando citas",2.4761354,4.515794899999975,0.1821731,30,160,1.9394206,82.49886589840285,774,9,
+2026-06-02T16:43:51.269442,comparacion_modelos,phi4-mini:latest,14,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un Large Language Model (LLM) puede servir como asistente de alto nivel para un robot móvil universitario, mejorando su capacidad interactiva con estudiantes y personal académico. Podría ayudar a los alumnos buscando información académica proporcionando respuestas detalladas, resúmenes y explicaciones sobre cursos. También podría apoyar al personal administrativo procesando solicitudes de inscripción y ayudando en la gestión del horario.
+
+Además, el LLM puede facilitar actividades educativas asistiendo durante sesiones de estudio impartidas por profesores e incluso creando materiales educativos personalizados basados en los niveles de comprensión individuales. Además, se podrían usar sus habilidades lingüísticas para ayudar con traducciones entre diferentes idiomas, haciendo que las universidades sean más accesibles a estudiantes internacionales. La interacción basada en lenguaje natural del LLM también puede mejorar la experiencia general estudiantil",2.5250872,4.586651899999993,0.1802012,30,160,2.0533411,77.92178318546296,965,8,
+2026-06-02T16:43:55.856142,comparacion_modelos,phi4-mini:latest,15,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un LLM (Lenguaje Modelo Large) puede servir como IA avanzada para una unidad robótica universitaria, proporcionando asistencia multidimensional:
+
+1. Apoyo Académico: El LLM puede ayudar con tareas académicas generando resúmenes, explicaciones y respuestas a preguntas de temas variados.
+
+2. Ayuda en Investigación: Puede sugerir fuentes relevantes, analizar datos e incluso redactar secciones del trabajo académico basándose en instrucciones detalladas proporcionadas por el usuario.
+
+3. Comunicación Interactiva: El robot puede comunicarse con estudiantes y profesores utilizando un LLM para entender y generar texto natural, ayudando a organizar reuniones académicas o proporcionar explicaciones sobre temas complejos.
+
+4. Apoyo Personalizado al Aprendizaje: Al analizar las preferencias de estudio del estudiante, el",2.9067778,4.983579300000002,0.1647328,30,160,2.1804618,73.37895119281613,819,10,
+2026-06-02T16:44:00.843745,comparacion_modelos,phi4-mini:latest,16,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un Large Language Model (LLM) puede servir como el cerebro avanzado del robot móvil universitario, proporcionando servicios multifacéticos:
+
+1. Asistencia Académica: El LLM puede comprender y generar texto humano, permitiéndole ayudar con tareas académicas, como explicar conceptos complejos en lenguaje sencillo o proporcionar resúmenes de artículos científicos.
+
+2. Servicio al Estudiante: Podría responder preguntas relacionadas con los recursos universitarios, como horarios, instalaciones y políticas estudiantiles, facilitando una experiencia universitaria mejorada.
+
+3. Interacción Personalizada: Al aprender el estilo de habla del estudiante, el LLM puede ofrecer asistencia personalizada en tareas académicas o proporcionar consejos sobre gestión del tiempo.
+
+4. Apoyo Lingüístico: Proporciona servicios de traducción y ayuda con",4.2613818,6.330111600000009,0.7636603,30,160,2.2369518,71.52590413436714,838,10,
+2026-06-02T16:44:07.174666,comparacion_modelos,phi4-mini:latest,17,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un Large Language Model (LLM) puede servir como el cerebro avanzado para un robot móvil universitario, proporcionando diversas funcionalidades enriquecidas con IA:
+
+1. Asistente Académico: El LLM podría ayudar a los estudiantes creando resúmenes personalizados del contenido, explicaciones y consejos académicos.
+
+2. Tutoría Interactiva: Proporciona respuestas en tiempo real al problema de matemáticas o ciencias, ayudando tanto para el estudio como las investigaciones.
+
+3. Comunicación con la Comunidad Universitaria: Puede generar discusiones sobre temas universitarios relevantes, ayudar a organizar eventos virtuales o reuniones estudiantiles.
+
+4. Soporte Lingüístico Multicultural: Proporciona traducción en tiempo real e intercambios multilingüísticos entre estudiantes de diferentes orígenes lingüísticos.
+
+",4.3284195,6.4156223999999895,0.7706237,30,160,2.2335837,71.63376057946698,816,8,
+2026-06-02T16:44:13.592196,comparacion_modelos,phi4-mini:latest,18,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un Large Language Model (LLM) puede servir como una inteligencia avanzada para un robot móvil universitario, proporcionando varias capacidades mejoradas:
+
+1. Interacción con los estudiantes: La IA del LLM puede entender y generar lenguaje natural, permitiendo que el robot discuta de manera fluida con los estudiantes sobre su asistencia académica.
+
+2. Apoyo personalizado en la tutoría: El robot podría usar un LLM para analizar las necesidades educativas individuales de cada estudiante basado en sus interacciones pasadas e instrucciones, proporcionando recursos educativos personalizados.
+
+3. Asistencia multilingüe: Los modelos del lenguaje pueden soportar múltiples idiomas, lo que permite al robot ayudar a estudiantes con diferentes habilidades lingüísticas y promover la inclusión dentro de entornos académicos diversos.
+
+4. Administración administrativa: La IA puede asistir",4.2404232,6.306623899999977,0.7562306,30,160,2.2387395,71.46878857499946,884,9,
+2026-06-02T16:44:19.901147,comparacion_modelos,phi4-mini:latest,19,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un Large Language Model (LLM) puede servir como la interfaz humano-robot principal dentro del entorno educativo, ofreciendo soporte personalizado a los estudiantes móviles universitarios. Podría ayudar con tareas académicas diversas: proporcionar explicaciones detalladas sobre conceptos difíciles, generar resúmenes de libros o artículos científicos, crear cuestionarios para evaluar el entendimiento y ofrecer apoyo ético con consejos en problemas morales.
+
+Además, podría facilitar la gestión administrativa ayudando con solicitudes de becas traduciendo idiomas del perfil académico del estudiante o proporcionando orientación sobre programas académicos. La capacidad del LLM para procesar lenguaje natural permitiría un diálogo conversacional fluido, haciendo que el asistente sea accesible y amigable al interactuar con los estudiantes.
+
+La integración efectiva en una plataforma móvil también garantizaría la conveniencia",4.2449574,6.305670399999997,0.7858656,30,160,2.1445436,74.60794921586113,927,8,
+2026-06-02T16:44:26.207649,comparacion_modelos,phi4-mini:latest,20,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un Language Model Large (LLM) puede servir como asistente de alto nivel en un robot móvil universitario, mejorando su funcionalidad al proporcionar varias ventajas clave:
+
+1. Interacción con el usuario: El LLM puede manejar conversaciones conversacionales fluidas con los usuarios, respondiendo preguntas sobre horarios, asistencia académica y campus, o incluso dirigiéndolos a las ubicaciones adecuadas.
+
+2. Ayuda educativa personalizable: Al acceder a un amplio conocimiento académico, el LLM podría adaptar sus respuestas para ayudar en tareas de investigación, proporcionar explicaciones complejas e incluso ofrecer sugerencias personales basándose en los intereses del usuario.
+
+3. Gestión de servicios y reservas: El modelo puede procesar solicitudes relacionadas con reservas de aulas, estacionamiento o acceso al gimnasio, manejando",4.2641872,6.329371400000014,0.7636702,30,160,2.255646,70.93311627799753,840,10,
+2026-06-02T16:44:32.538265,comparacion_modelos,phi4-mini:latest,21,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un Lenguaje Modelo (LLM) puede servir como asistente de alta gama para un robot móvil universitario, mejorando su funcionalidad con capacidades avanzadas de procesamiento y comprensión del lenguaje natural. Podría utilizarse para:
+
+1. Respuestas Rápidas: Proporcionar respuestas inmediatas a preguntas estudiantiles sobre el horario académico, cursos disponibles o información general universitaria.
+
+2. Apoyo Académico: Ayudar con tareas como la escritura de ensayos, sugerencias de fuentes académicas y explicaciones simplificadas de conceptos complejos en diferentes materias.
+
+3. Programación y Organización: Asistir a estudiantes con planificación del tiempo, recordatorios para fechas importantes (pruebas, presentaciones) e incluso ayudar a crear horarios semanales o diarios personalizados.
+
+4",4.2378095,6.294235900000018,0.7765969,30,160,2.1514471,74.3685494288937,801,10,
+2026-06-02T16:44:38.834334,comparacion_modelos,phi4-mini:latest,22,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un Large Language Model (LLM) puede servir como asistente inteligente para un robot móvil universitario, proporcionando múltiples funciones útiles:
+
+1. Ayuda al aprendizaje: Puede proporcionar explicaciones detalladas, recursos adicionales y ejercicios personalizados a los estudiantes según sus necesidades.
+
+2. Servicio administrativo: El LLM podría manejar consultas administrativas, tales como la gestión de horarios de clase o información sobre profesores, ahorrando tiempo tanto para el estudiante como para el personal académico.
+
+3. Ayuda con investigación: Los alumnos pueden pedir ayuda en su trabajo de investigación; el LLM puede sugerir literatura relevante, ayudar a formular hipótesis y guiarlos en el proceso de investigación.
+
+4. Acceso a la información: El asistente puede proporcionar respuestas rápidas y precisas para preguntas relacionadas con varios temas académicos",3.8149299,5.880707599999994,0.3094504,30,160,2.2336327,71.63218912402205,889,8,
+2026-06-02T16:44:44.716371,comparacion_modelos,phi4-mini:latest,23,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un Large Language Model (LLM) puede servir como asistente inteligente para un robot móvil universitario, mejorando la experiencia educativa proporcionando soporte multitarea:
+
+1. Ayuda Académica: Responde preguntas sobre cursos, ayuda con tareas y explica conceptos complejos en lenguaje simple.
+
+2. Información de Campus: Proporciona información actualizada sobre horarios de clases, ubicaciones del campus y servicios disponibles.
+
+3. Organización Personal: Ayuda a crear agendas académicas, establecer recordatorios para fechas límite o programar citas con profesores.
+
+4. Actividades Extracurriculares: Ofrece consejos sobre actividades extracurriculares, eventos estudiantiles y grupos sociales relevantes al interés de los estudiantes.
+
+5. Multimodalidad: Integrase con el sistema operativo móvil del robot permitiendo la",2.4511969,4.509572399999996,0.1572885,30,160,2.0007244,79.97103449130724,827,10,
+2026-06-02T16:44:49.226507,comparacion_modelos,phi4-mini:latest,24,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un Large Language Model (LLM) puede servir como el cerebro avanzado del sistema robótico educativo, proporcionando capacidades multifacéticas:
+
+1. **Asistente interactivo**: El LLM se comunica con los estudiantes en lenguaje natural, ofreciendo explicaciones, consejo y apoyo académico.
+
+2. **Recopilación de información**: Puede extraer datos relevantes de textos extensos rápidamente para proporcionar resúmenes o materiales relacionados.
+
+3. **Aprendizaje personalizado**: Analizando el rendimiento del estudiante, puede adaptar las sugerencias para cursos individuales, ayudando a comprender temas difíciles y proponiendo recursos adicionales.
+
+4. **Ayuda en tareas académicas**: Puede asistir con la escritura de ensayos, aclaración de problemas matemáticos o elaboración de informes, sugiriendo mejoras gramat",2.4693779,4.520705300000003,0.1673338,30,160,2.04534,78.2266029119853,815,9,
+2026-06-02T16:44:53.747700,comparacion_modelos,phi4-mini:latest,25,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un Large Language Model (LLM) puede servir como una plataforma inteligente para el desarrollo del software y la interfaz humana dentro de un robot móvil universitario, con las siguientes funciones:
+
+1. **Asistente Educativo**: Ofreciendo explicaciones detalladas sobre temas académicos.
+
+2. **Interacción Humańa**: Administrando conversaciones naturales con estudiantes e investigadores.
+
+3. **Ayuda al Aprendizaje**: Ayudando en tareas de investigación proporcionando recursos como artículos, fuentes y datos relevantes.
+
+4. **Soporte Lingüístico**: Ofreciendo traducciones para apoyar a una comunidad estudiantil diversa.
+
+5. **Talleres**: Guiando estudiantes durante sesiones prácticas simuladas o experimentales.
+
+6. **Servicio al Estudiante**: Ayud",2.4031989,4.4696712999999875,0.1586331,30,160,1.9881306,80.4776104748853,753,9,
+2026-06-02T16:44:58.219188,comparacion_modelos,phi4-mini:latest,26,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un Large Language Model (LLM) puede servir como asistente avanzado para un robot móvil universitario al proporcionar respuestas contextualizadas a preguntas académicas, ayudando con tareas administrativas y ofreciendo apoyo educativo personalizado.
+
+1. Apoyo Académico: El LLM podría ayudar en la investigación proporcionándole fuentes relevantes, explicando conceptos complejos o generando resúmenes de materiales académicos.
+2. Tareas Administrativas: Podría asistir el robot en manejar las operaciones relacionadas con la asistencia estudiantil como reservar espacios para reuniones, gestionar hojas de trabajo y procesar solicitudes.
+3. Apoyo Educativo Personalizado: El LLM podría adaptar su enfoque al estilo de aprendizaje del estudiante, ofreciendo explicaciones adicionales o proponiendo recursos educativos personalizados.
+
+El asistente puede interactuar con estudiantes a través de",2.4553932,4.50968979999999,0.1589684,30,160,2.0525408,77.95216543320356,892,9,
+2026-06-02T16:45:02.728998,comparacion_modelos,phi4-mini:latest,27,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un LLM (Modelo Lingüístico Avanzado) puede servir a un robot móvil universitario, actuando como asistente virtual inteligente. Podría ayudar con el apoyo académico proporcionando explicaciones detalladas de conceptos complicados o ayudando en la búsqueda académica al encontrar recursos relevantes dentro del campus y más allá.
+
+Además, podría facilitar las interacciones conversacionales entre el estudiante y el sistema, haciéndolo más accesible para una gama diversa de estudiantes. También puede proporcionar orientación sobre tareas administrativas como programar citas con asesores académicos u organizar horarios de clases.
+
+Por último, el LLM también se podría utilizar en aplicaciones prácticas del aula al ayudar a simular experimentos o enseñar habilidades básicas utilizando la voz del asistente virtual y el procesamiento avanzado del lenguaje natural para hacer que las",2.4294664,4.477172699999983,0.1569948,30,160,2.0233626,79.07628617826582,883,10,
+2026-06-02T16:45:07.206758,comparacion_modelos,phi4-mini:latest,28,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un Language Model Large Scale (LLM) como GPT, al servir como asistente de alta calificación para un robot móvil universitario, puede mejorar significativamente su interacción con los usuarios y sus capacidades educativas.
+
+Podría proporcionar respuestas rápidas a consultas académicas, ayudando en tareas como la explicación de conceptos complejos, el suministro de resúmenes de investigación o sugerir recursos adicionales. Además, podría guiar al usuario hacia diferentes áreas del campus, proporcionando direcciones dinámicas basadas en las condiciones actuales de tráfico y los eventos.
+
+Un LLM también puede ayudar con actividades administrativas, ayudando a los usuarios a gestionar su programación académica, programar citas para tutorías o incluso proporcionar asistencia multilingüe para estudiantes internacionales. Al analizar el tono emocional de la interacción del usuario, el modelo podría",2.4724539,4.521226000000013,0.1658314,30,160,2.0466767,78.17551252721059,903,7,
+2026-06-02T16:45:11.728383,comparacion_modelos,phi4-mini:latest,29,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un Large Language Model (LLM) puede servir como una inteligencia avanzada para un robot móvil universitario, ofreciendo diversas funcionalidades: 
+
+1. Asistencia académica: El LLM puede ayudar a los estudiantes con sus tareas, explicando conceptos difíciles y generando resúmenes de textos.
+
+2. Tutoría personalizada: Analizando el progreso del estudiante, se adapta su estilo educativo y fomenta la comprensión personalizada.
+
+3. Ayuda administrativa: Responde preguntas relacionadas con horarios, cursos y servicios estudiantiles.
+
+4. Experiencias sociales: Genera conversaciones para fomentar la vida universitaria o ayuda a crear eventos culturales.
+
+5. Soporte en idiomas extranjeros: Traduce materiales académicos, lo que hace accesibles los libros de texto internacionales al estudiante local.
+
+
+El LLM facilita el aprendizaje",2.4317012,4.491942800000004,0.1700717,30,160,1.9860312,80.56268199613379,833,9,
+2026-06-02T16:45:16.220772,comparacion_modelos,phi4-mini:latest,30,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un Language Model Large (LLM) puede servir como asistente virtual avanzado para robots móviles universitarios, mejorando su funcionalidad y experiencia del usuario. A través de la comprensión avanzada del lenguaje natural, el LLM puede procesar consultas en tiempo real, proporcionando información contextualizada sobre eventos escolares, horarios de clases o instalaciones cercanas.
+
+Además, al comunicarse con los estudiantes de manera más humana, el asistente ayuda a rastrear recordatorios para exámenes, gestionar citas de asesoramiento y asistir con tareas administrativas. También se utiliza como herramienta educativa interactiva, respondiendo preguntas relacionadas con materias académicas e ayudando en la investigación.
+
+Con capacidades predictivas, el LLM puede anticipar necesidades del usuario, como sugerir horarios óptimos o actividades recreativas basadas en intereses estudi",2.485229,4.537935400000038,0.1663013,30,160,1.9941601,80.23428008613752,892,10,
+2026-06-02T16:45:20.758757,comparacion_modelos,gemma3:4b,1,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un LLM (Modelo de Lenguaje Grande) podría revolucionar la inteligencia de un robot móvil universitario, transformándolo en un asistente de alto nivel.  El LLM procesaría comandos de voz o texto complejos, traduciéndolos en acciones específicas para el robot. 
+
+Más allá de simples instrucciones, el LLM podría entender el *contexto* de la tarea. Por ejemplo, en lugar de ""lleva el libro a la biblioteca"", podría entender que el usuario necesita ""llevar el libro de física al salón de clases de física"".  
+
+Además, el LLM podría aprender y adaptarse al entorno, permitiendo al robot navegar de forma autónoma, reconocer objetos y responder a preguntas sobre su entorno.  En resumen, el LLM le daría al robot una comprensión del",8.5633691,10.62382389999999,6.251018,36,160,2.1076222,75.9149339003926,726,10,
+2026-06-02T16:45:31.383194,comparacion_modelos,gemma3:4b,2,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un LLM (Modelo de Lenguaje Grande) podría revolucionar los robots móviles universitarios, transformándolos en asistentes inteligentes. Podría procesar instrucciones complejas en lenguaje natural (""Lleva la taza al comedor y luego busca el libro de historia"") y traducirlas en acciones específicas para el robot.
+
+Además, el LLM podría aprender sobre el entorno a través de sensores y datos, permitiendo al robot navegar de forma autónoma, identificar objetos y realizar tareas complejas basadas en el contexto.  Podría incluso interactuar con personas, respondiendo preguntas sobre el entorno o solicitando ayuda.  En esencia, el LLM proporcionaría el cerebro que permite al robot entender y actuar en el mundo real.
+",2.4601825,4.521938800000044,0.3145022,36,146,1.9952513,73.17374006973458,717,10,
+2026-06-02T16:45:35.905574,comparacion_modelos,gemma3:4b,3,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un LLM (Large Language Model) podría transformar un robot móvil universitario en un asistente inteligente de alto nivel. El LLM procesaría comandos de voz o texto, traduciéndolos en instrucciones específicas para el robot. 
+
+Podría, por ejemplo, entender ""Busca el laboratorio de química y trae un libro sobre reacciones orgánicas"". El LLM coordinaría la navegación del robot, la identificación de objetos mediante visión artificial y la manipulación de objetos (si el robot está equipado para ello). 
+
+Además, podría aprender y adaptarse al entorno, mejorando su comprensión del campus y anticipando las necesidades del usuario, convirtiendo al robot en un compañero de asistencia proactivo.
+",2.4638692,4.500419799999975,0.3183143,36,140,2.0148379,69.48449798368395,693,9,
+2026-06-02T16:45:40.406445,comparacion_modelos,gemma3:4b,4,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un LLM (Modelo de Lenguaje Grande) podría revolucionar la inteligencia de un robot móvil universitario. Podría actuar como un asistente de alto nivel, interpretando comandos complejos en lenguaje natural (""Lleva este libro a la biblioteca y luego discute sobre la física cuántica con el profesor Smith"").
+
+El LLM traduciría estas instrucciones en acciones específicas para el robot, gestionando la planificación de rutas, la manipulación de objetos y la interacción con el entorno.  Además, podría aprender de la experiencia, adaptando su comportamiento y mejorando su comprensión del mundo.  Finalmente, podría incluso generar respuestas y diálogos para interacciones más naturales con humanos.
+",2.4155041,4.475288400000011,0.3160842,36,135,1.9552429,69.04512989153419,696,10,
+2026-06-02T16:45:44.882312,comparacion_modelos,gemma3:4b,5,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un LLM podría revolucionar la inteligencia de un robot móvil universitario, transformándolo en un asistente de alto nivel.  En lugar de seguir comandos rígidos, el LLM permitiría al robot comprender y responder a instrucciones complejas y ambiguas en lenguaje natural, como ""Lleva este libro a la biblioteca y luego busca información sobre física cuántica"".
+
+El LLM procesaría la solicitud, planificaría la ruta, gestionaría los sensores y actuadores, y se adaptaría a obstáculos inesperados.  Además, podría aprender y mejorar con el tiempo, optimizando su comportamiento y ampliando su rango de tareas, desde la asistencia en la investigación hasta la interacción social básica.
+",2.4634199,4.5150601999999935,0.3106008,36,140,2.0080983,69.71770256466031,681,10,
+2026-06-02T16:45:49.397409,comparacion_modelos,gemma3:4b,6,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un LLM podría revolucionar la inteligencia de un robot móvil universitario, transformándolo en un asistente de alto nivel. El LLM procesaría comandos de voz o texto, interpretando la intención del usuario más allá de simples instrucciones de movimiento.
+
+Podría, por ejemplo, entender ""Necesito llevarme al laboratorio de química y buscar el solvente X"". El LLM traduciría esto en una secuencia de acciones: navegar al laboratorio, identificar el solvente X y, si es necesario, solicitar ayuda a un humano.
+
+Además, el LLM podría aprender y adaptarse al entorno, mejorando la navegación, gestionando objetos y facilitando la interacción en situaciones complejas, haciendo del robot un compañero inteligente y proactivo.
+",2.4681109,4.516933600000016,0.3098321,36,148,2.0263255,73.03861102276016,720,9,
+2026-06-02T16:45:53.914656,comparacion_modelos,gemma3:4b,7,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un LLM (Large Language Model) podría revolucionar la inteligencia de un robot móvil universitario, transformándolo en un asistente de alto nivel. El LLM podría entender comandos complejos en lenguaje natural (""Lleva mi libro a la biblioteca y luego busca el último informe de investigación sobre IA""), traduciéndolos en acciones específicas para el robot.
+
+Además, el LLM podría realizar tareas como:
+
+*   **Planificación de rutas:**  Adaptándose a cambios inesperados en el entorno.
+*   **Interacción con humanos:**  Responder preguntas, proporcionar información y colaborar en tareas.
+*   **Análisis de datos:**  Interpretando información de sensores y datos externos.
+*   **Aprendizaje continuo:**  Mejorando su rendimiento a través de la interacción y la experiencia",2.7339716,4.770488400000033,0.3031906,36,160,2.2867936,69.96696160073213,770,10,
+2026-06-02T16:45:58.686000,comparacion_modelos,gemma3:4b,8,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un LLM podría revolucionar la inteligencia de un robot móvil universitario, transformándolo en un asistente de alto nivel. En lugar de solo seguir comandos preprogramados, el LLM permitiría al robot comprender instrucciones complejas en lenguaje natural (""Trae el café de la cocina y llévalo a la sala de reuniones"").
+
+Podría planificar rutas optimizadas, adaptarse a cambios inesperados en el entorno (detectando obstáculos o personas) y aprender de la interacción. Además, el LLM podría interactuar con otros dispositivos, controlando luces, ajustando la temperatura o incluso solicitando información.  En resumen, el LLM otorgaría al robot una capacidad de comprensión y razonamiento mucho más avanzada, abriendo un abanico de posibilidades para tareas autónomas y flexibles.",2.7342846,4.769713500000023,0.307974,36,159,2.2849873,69.58463182705654,778,10,
+2026-06-02T16:46:03.455932,comparacion_modelos,gemma3:4b,9,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un LLM (Large Language Model) podría revolucionar los robots móviles universitarios, transformándolos en asistentes inteligentes.  El LLM procesaría comandos de lenguaje natural, traduciéndolos en instrucciones específicas para el robot.  
+
+Podría, por ejemplo, entender ""Lleva el libro a la biblioteca"" y planificar la ruta, evitar obstáculos y manipular el libro con precisión.  Además, el LLM podría interactuar con el entorno, describiendo lo que ve (""Veo un escritorio"") o respondiendo preguntas sobre el espacio. 
+
+La capacidad de razonamiento del LLM permitiría al robot adaptarse a situaciones imprevistas y aprender nuevas tareas, haciendo del robot móvil un compañero de trabajo y asistencia mucho más versátil.
+",2.6236771,4.690628800000013,0.3081627,36,153,2.1714751,70.45901654594152,722,10,
+2026-06-02T16:46:08.146857,comparacion_modelos,gemma3:4b,10,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un LLM (Modelo de Lenguaje Grande) podría revolucionar la inteligencia de un robot móvil universitario, transformándolo en un asistente de alto nivel. 
+
+El LLM procesaría comandos de voz o texto complejos, como ""Lleva este libro a la biblioteca y luego encuentra el café más cercano con buenas reseñas"".  Analizaría la solicitud, planificaría la ruta, controlaría el robot y, incluso, interactuaría con bases de datos para obtener información (ubicación, reseñas, etc.).
+
+Además, el LLM podría aprender y adaptarse al entorno, mejorando su capacidad de comprensión y ejecución con el tiempo. Podría incluso generar respuestas proactivas, como ""Noté que el café está cerrado, ¿quieres que busque una alternativa?"".
+",2.6184919,4.680013599999995,0.3254303,36,157,2.1520594,72.95337665865542,714,10,
+2026-06-02T16:46:12.827254,comparacion_modelos,gemma3:4b,11,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un LLM podría revolucionar la movilidad universitaria de los robots. Imagina un robot que, en lugar de seguir rutas preprogramadas, **entiende las instrucciones en lenguaje natural**.  
+
+El LLM procesaría comandos como ""Lleva este libro a la biblioteca, pasando por el café y evitando a la gente"".  Luego, **interpretaría la solicitud, planificaría la ruta optimizada, y controlaría el robot** para ejecutarla de manera segura.
+
+Además, el LLM podría **interactuar con el entorno**, identificando objetos, respondiendo a preguntas sobre el campus (""¿Dónde está la sala de estudio 203?"") y adaptándose a situaciones inesperadas.  La combinación de visión artificial y un LLM permitiría un robot móvil realmente inteligente",2.718673,4.766470300000037,0.3000034,36,160,2.2723928,70.41036215217721,721,9,
+2026-06-02T16:46:17.594632,comparacion_modelos,gemma3:4b,12,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un LLM (Large Language Model) podría revolucionar los robots móviles universitarios al transformarlos en asistentes inteligentes. Podría entender comandos complejos en lenguaje natural (""Lleva el libro a la biblioteca y luego tráeme una taza de café""), interpretando el contexto y adaptándose a situaciones imprevistas.
+
+El LLM gestionaría la planificación de rutas, la navegación autónoma y la interacción con el entorno, incluso aprendiendo de la experiencia.  Además, podría proporcionar información relevante (""¿Qué hay de nuevo en la investigación sobre IA?"") y ejecutar tareas complejas, como responder preguntas, generar informes y comunicarse con usuarios.  En resumen, el LLM le daría al robot movilidad y una inteligencia superior.",2.5640015,4.638287600000012,0.3237547,36,145,2.0958995,69.18270651813219,741,10,
+2026-06-02T16:46:22.232999,comparacion_modelos,gemma3:4b,13,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un LLM (Modelo de Lenguaje Grande) podría revolucionar la funcionalidad de un robot móvil universitario, transformándolo en un asistente inteligente.  El LLM procesaría comandos de voz o texto complejos, traduciéndolos en acciones específicas para el robot, como ""llevarme a la biblioteca principal"" o ""busca artículos sobre inteligencia artificial"".
+
+Además, el LLM permitiría una interacción más natural, comprendiendo el contexto y la intención del usuario. Podría responder preguntas sobre el campus, ofrecer rutas optimizadas, incluso interactuar con otros sistemas (por ejemplo, solicitando información en una base de datos académica).  En resumen, el LLM dotaría al robot de una capacidad de comprensión y respuesta mucho más avanzada que las simples instrucciones programadas.",2.7058367,4.778772400000037,0.3203742,36,155,2.1966168,70.56305860903913,784,9,
+2026-06-02T16:46:27.012385,comparacion_modelos,gemma3:4b,14,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un LLM (Large Language Model) podría revolucionar los robots móviles universitarios al actuar como un ""cerebro"" de alto nivel. En lugar de programar cada movimiento, el LLM recibiría instrucciones en lenguaje natural como ""Ve al comedor principal y pide un café"". 
+
+El LLM traduciría esta instrucción en una secuencia de comandos para el robot, considerando factores como navegación, objetos detectados y posibles obstáculos.  Además, podría aprender y adaptarse a nuevas tareas a través de la interacción, mejorando su comprensión del entorno y su capacidad para realizar acciones complejas de forma autónoma.  En esencia, el LLM transformaría al robot en un asistente inteligente y versátil.",2.5378051,4.604361200000028,0.3370511,36,141,2.0269071,69.56411569134077,693,10,
+2026-06-02T16:46:31.616940,comparacion_modelos,gemma3:4b,15,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un LLM (Large Language Model) podría revolucionar la inteligencia de un robot móvil universitario al actuar como su ""cerebro"" de alto nivel. En lugar de programar cada movimiento, el LLM permitiría al robot **entender y responder a comandos complejos en lenguaje natural**.
+
+Podría:
+
+*   **Planificar rutas:** ""Lléveme al laboratorio de química, evitando el gimnasio"".
+*   **Interaccionar con el entorno:** ""Busca un asiento libre en la cafetería"".
+*   **Realizar tareas complejas:** ""Organiza los libros en el escritorio de forma ordenada"".
+*   **Aprender y adaptarse:**  A través del feedback del usuario y datos del entorno.
+
+El LLM traduciría estos comandos en acciones",2.7290357,4.788025399999981,0.31507,36,160,2.268204,70.54039231039184,673,10,
+2026-06-02T16:46:36.405639,comparacion_modelos,gemma3:4b,16,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un LLM podría revolucionar la inteligencia de un robot móvil universitario, transformándolo en un asistente de alto nivel. El LLM procesaría comandos de voz complejos, como ""Lleva el libro de texto de física al laboratorio de química y luego busca información sobre reacciones orgánicas"".
+
+Además de la navegación, el LLM gestionaría tareas complejas, priorizando objetivos, adaptándose a entornos cambiantes y aprendiendo de interacciones. Podría interactuar con otros dispositivos, acceder a bases de datos y realizar investigaciones, proporcionando al robot una comprensión contextual profunda. 
+
+En esencia, el LLM dotaría al robot de la capacidad de entender, razonar y actuar de forma autónoma, superando las limitaciones de los robots tradicionales basados en reglas.
+",2.6776351,4.7262858999999935,0.3169333,36,155,2.2164302,69.93227217351577,775,10,
+2026-06-02T16:46:41.132402,comparacion_modelos,gemma3:4b,17,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un LLM (Modelo de Lenguaje Grande) podría revolucionar la inteligencia de un robot móvil universitario, transformándolo en un asistente de alto nivel. El LLM procesaría comandos de voz o texto complejos, traduciéndolos en acciones específicas para el robot. 
+
+Podría, por ejemplo, entender ""Lleva el libro de texto a la biblioteca y luego busca información sobre física cuántica"". El LLM gestionaría la navegación, la manipulación de objetos y la interacción con bases de datos o internet, optimizando la tarea. 
+
+Además, podría aprender de la experiencia, adaptándose a nuevos entornos y mejorando su capacidad para completar tareas complejas, convirtiendo al robot en un compañero de investigación inteligente y proactivo.",2.5401201,4.594777599999986,0.3173324,36,150,2.0932821,71.65780474595373,724,10,
+2026-06-02T16:46:45.727572,comparacion_modelos,gemma3:4b,18,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un LLM (Modelo de Lenguaje Grande) podría transformar un robot móvil universitario en un asistente de alto nivel, permitiéndole interactuar de forma natural y comprender instrucciones complejas. 
+
+El LLM procesaría comandos de voz o texto, traduciéndolos en acciones específicas para el robot: ""Lleva este libro a la biblioteca"" se convertiría en un plan de navegación y manipulación. Además, el LLM podría responder preguntas sobre el entorno, aprender preferencias del usuario y adaptarse a nuevas tareas. 
+
+Podría incluso generar informes sobre su entorno, como ""Hay una silla libre en la mesa del aula 302"" o ""El profesor está dando una conferencia"". La combinación de la movilidad del robot con la inteligencia conversacional del LLM abriría nuevas posibilidades en",2.6875234,4.750393400000007,0.3197827,36,160,2.2220468,72.00568412870511,770,10,
+2026-06-02T16:46:50.478016,comparacion_modelos,gemma3:4b,19,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un LLM (Large Language Model) podría revolucionar la inteligencia de un robot móvil universitario, transformándolo en un asistente de alto nivel. 
+
+El LLM procesaría comandos de lenguaje natural (""Trae el libro de Historia desde la biblioteca"") y los traduciría en acciones específicas para el robot. Además, podría razonar sobre el entorno, planificar rutas optimizadas, y entender el contexto de la tarea. 
+
+Podría incluso aprender preferencias del usuario, recordar información relevante y adaptar su comportamiento.  El LLM permitiría al robot interactuar de forma natural con personas, comprender instrucciones complejas y realizar tareas más sofisticadas que simples movimientos preprogramados, acercándose a un nivel de ""inteligencia"" autónoma.
+",2.5791335,4.645981699999993,0.3144666,36,151,2.1286941,70.93550924014869,752,10,
+2026-06-02T16:46:55.124558,comparacion_modelos,gemma3:4b,20,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un LLM (Large Language Model) podría revolucionar la inteligencia de un robot móvil universitario, transformándolo en un asistente de alto nivel. 
+
+El LLM podría entender comandos complejos en lenguaje natural, como ""Lleva este libro a la biblioteca y luego busca el departamento de ingeniería"".  Analizaría la instrucción, planificaría la ruta óptima, y se comunicaría con el robot para ejecutarla. 
+
+Además, podría aprender de la experiencia, adaptando su comportamiento, interactuar con otros dispositivos y, incluso, responder preguntas sobre el entorno.  El LLM permitiría al robot realizar tareas complejas de forma autónoma, mucho más allá de la navegación básica.
+",2.4441505,4.493659100000002,0.2990834,36,141,2.003343,70.38235589212631,672,10,
+2026-06-02T16:46:59.618675,comparacion_modelos,gemma3:4b,21,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un LLM (Modelo de Lenguaje Grande) podría revolucionar la inteligencia de un robot móvil universitario, transformándolo en un asistente de alto nivel. 
+
+El LLM podría entender y responder a comandos complejos en lenguaje natural, como ""Lleva el libro de texto a la biblioteca y luego encuentra un café con wifi"".  Además, podría procesar información contextual, como el estado del entorno (detectado por sensores) y la ubicación, para planificar rutas óptimas y realizar tareas complejas. 
+
+Podría incluso aprender y adaptarse a las preferencias del usuario, anticipando necesidades y mejorando su eficiencia.  En esencia, el LLM proporcionaría una interfaz intuitiva y flexible para controlar y guiar al robot, permitiéndole ser un compañero de trabajo y exploración mucho más útil",2.7156312,4.782255300000031,0.302115,36,160,2.2724676,70.40804454153714,782,10,
+2026-06-02T16:47:04.401469,comparacion_modelos,gemma3:4b,22,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un LLM (Large Language Model) podría transformar un robot móvil universitario en un asistente de alto nivel, mucho más allá de la navegación básica. 
+
+El LLM podría **procesar lenguaje natural** para comprender comandos complejos como ""Lleva este libro a la biblioteca y luego busca artículos sobre inteligencia artificial"".  Además, podría **interpretar datos del entorno** (visión, sensores) para contextualizar las tareas y **planificar rutas optimizadas** considerando obstáculos y prioridades.
+
+El LLM también permitiría **interacciones conversacionales** con el usuario, respondiendo preguntas sobre el entorno, ofreciendo recomendaciones y adaptándose a las necesidades individuales.  En esencia, el LLM dotaría al robot de una comprensión del mundo y la capacidad de interactuar con él de manera inteligente",2.731253,4.793521499999997,0.3142692,36,160,2.2717339,70.43078416886766,815,10,
+2026-06-02T16:47:09.194973,comparacion_modelos,gemma3:4b,23,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un LLM (Modelo de Lenguaje Grande) podría revolucionar la inteligencia de un robot móvil universitario, transformándolo en un asistente de alto nivel.  El LLM podría entender y procesar comandos complejos en lenguaje natural (""Lleva mi almuerzo a la biblioteca y pregunta si hay asientos disponibles""). 
+
+Además, podría analizar su entorno en tiempo real, identificando objetos, personas y obstáculos, y planificar rutas optimizadas.  El LLM podría incluso aprender de interacciones previas, adaptando su comportamiento y mejorando su eficiencia. 
+
+Finalmente, podría interactuar con otros sistemas, como la gestión de edificios, para realizar tareas complejas y dinámicas.
+",2.4223967,4.48274889999999,0.2994364,36,138,1.9880691,69.414086260885,674,10,
+2026-06-02T16:47:13.678550,comparacion_modelos,gemma3:4b,24,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un LLM podría revolucionar la inteligencia de un robot móvil universitario al actuar como su cerebro.  En lugar de programar cada movimiento, el LLM podría recibir comandos en lenguaje natural (""Ve al laboratorio de robótica y trae el informe de la investigación"") y traducirlos en acciones específicas para el robot.
+
+Podría gestionar la planificación de rutas, adaptándose a obstáculos dinámicos y priorizando tareas.  Además, podría interactuar con otros sistemas, como bases de datos o sensores, para obtener información relevante.  El LLM podría incluso aprender de la experiencia, mejorando su capacidad de navegación y resolución de problemas con el tiempo, permitiendo un control mucho más intuitivo y flexible.
+",2.5241791,4.562342199999989,0.3382121,36,143,2.0523034,69.67780689736225,720,10,
+2026-06-02T16:47:18.241352,comparacion_modelos,gemma3:4b,25,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un LLM (Large Language Model) podría transformar un robot móvil universitario en un asistente inteligente de alto nivel.  El LLM podría procesar instrucciones complejas en lenguaje natural (""Lleva el informe a la biblioteca y luego busca artículos sobre IA"") y traducirlas en acciones específicas para el robot.
+
+Además, el LLM podría:
+
+*   **Planificar rutas:** Considerando obstáculos y objetivos.
+*   **Interactuar con humanos:**  Responder preguntas sobre el entorno, proporcionar actualizaciones y recibir nuevas instrucciones.
+*   **Analizar datos:**  Recopilar y procesar información de sensores y fuentes externas.
+*   **Aprender y adaptarse:**  Mejorando su rendimiento con el tiempo.
+
+En esencia, el LLM dotaría al robot de una comprensión",2.7464146,4.8073620999999775,0.3283765,36,160,2.2720978,70.4195039491698,749,10,
+2026-06-02T16:47:23.048872,comparacion_modelos,gemma3:4b,26,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un LLM (Modelo de Lenguaje Grande) podría transformar un robot móvil universitario en un asistente inteligente de alto nivel. El LLM procesaría comandos de voz o texto, traduciéndolos en acciones específicas para el robot.
+
+Podría, por ejemplo, interpretar ""Lleva el libro de texto a la biblioteca"" y planificar la ruta, evitar obstáculos y manipular el objeto con precisión. Además, el LLM podría responder preguntas sobre el entorno (""¿Qué hay en la sala de conferencias?""), realizar tareas complejas como ""Organiza mi escritorio"" o incluso interactuar de forma conversacional.
+
+En esencia, el LLM le daría al robot la capacidad de entender y responder a instrucciones complejas, trascendiendo la simple navegación basada en sensores.
+",2.7032338,4.734658400000001,0.3133106,36,158,2.2472509,70.30812625328129,737,10,
+2026-06-02T16:47:27.784038,comparacion_modelos,gemma3:4b,27,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un LLM podría revolucionar la movilidad universitaria de un robot, transformándolo en un asistente inteligente. Podría comprender comandos complejos como ""Lleva este libro a la biblioteca, evita el gimnasio y pregunta si alguien está esperando en la cafetería"".
+
+El LLM procesaría estos comandos, traduciéndolos en acciones específicas para el robot, como navegar por mapas, manipular objetos y comunicarse.  Además, podría aprender y adaptarse a las preferencias del usuario, anticipando necesidades (""¿Quieres que te prepare un café antes de tu clase?"") y proporcionando información contextual relevante.
+
+La capacidad de razonamiento del LLM permitiría al robot interactuar de forma más natural y eficiente, superando las limitaciones de los sistemas basados en reglas tradicionales.
+",2.6238325,4.674336400000016,0.3033274,36,152,2.1782397,69.78111729393235,787,8,
+2026-06-02T16:47:32.458928,comparacion_modelos,gemma3:4b,28,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un LLM (Modelo de Lenguaje Grande) podría revolucionar la autonomía de un robot móvil universitario, transformándolo en un asistente de alto nivel. El LLM procesaría comandos de voz o texto complejos, como ""Lleva este libro a la biblioteca y luego encuentra el café más cercano"".
+
+Descompondría la solicitud en tareas específicas: navegación, manipulación de objetos, y búsqueda de información.  El LLM interactuaría con los sensores del robot para entender el entorno, planificar la ruta y controlar los motores.  Además, podría aprender y adaptarse a las preferencias del usuario, mejorando la eficiencia y la naturalidad de la interacción. En esencia, el LLM proporcionaría la ""inteligencia"" que le permitiría al robot realizar tareas complejas de forma",2.7184188,4.770897399999967,0.302526,36,160,2.2683748,70.5350808869857,756,10,
+2026-06-02T16:47:37.230254,comparacion_modelos,gemma3:4b,29,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un LLM (Modelo de Lenguaje Grande) podría transformar un robot móvil universitario en un asistente de alto nivel, permitiéndole interactuar de forma natural y realizar tareas complejas. 
+
+El LLM procesaría comandos de voz o texto, interpretando intenciones como ""Lleva este libro a la biblioteca"" o ""Investiga los resultados de la última conferencia sobre robótica"".  
+
+Luego, traduciría esta intención en una serie de acciones específicas para el robot: navegación, manipulación de objetos y acceso a bases de datos. 
+
+Además, el LLM podría aprender y adaptarse al entorno, mejorando su comprensión del mundo y su capacidad para responder a preguntas complejas, convirtiendo al robot en un compañero de investigación inteligente y versátil.",2.6337541,4.693271600000003,0.2996017,36,154,2.1905793,70.30103863393578,741,10,
+2026-06-02T16:47:41.923498,comparacion_modelos,gemma3:4b,30,Explica en máximo 120 palabras cómo podría usarse un LLM como asistente de alto nivel para un robot móvil universitario.,0.7,0.9,40,0.0,4096,160,1.1,"Un LLM (Large Language Model) podría transformar un robot móvil universitario en un asistente de alto nivel, permitiéndole entender y responder a comandos complejos. En lugar de simplemente seguir instrucciones preprogramadas, el LLM permitiría al robot:
+
+*   **Interpretación de lenguaje natural:** Comprender instrucciones como ""Ve al laboratorio de robótica y trae un vaso de agua"".
+*   **Planificación de rutas:** Generar planes de ruta adaptativos considerando obstáculos y objetivos.
+*   **Interacción contextual:**  Responder preguntas sobre el entorno, como ""Qué experimentos se están llevando a cabo en este laboratorio?"".
+*   **Aprendizaje continuo:**  Aprender de la interacción con el usuario y mejorar su rendimiento.
+
+En esencia, el LLM dotaría al robot",2.7079726,4.761800600000015,0.3043223,36,160,2.2432356,71.32554422727598,767,10,
