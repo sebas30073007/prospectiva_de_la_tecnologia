@@ -1,10 +1,10 @@
 ---
-title: Cómo funciona el sistema conectado
+title: Práctica 3 - Front y Back End
 layout: default
 nav_order: 4
 ---
 
-# Cómo funciona todo el sistema conectado
+# Práctica 3 - Front y Back End
 
 **Arquitectura:** GitHub Pages · FastAPI · Groq API · Render
 {: .label .label-blue }
