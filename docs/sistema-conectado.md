@@ -239,7 +239,7 @@ La separación en tres capas no fue un diseño planeado desde el inicio — fue 
 
 ---
 
-## `benchmark_modelos.py`
+## Comparación de modelos
 
 Script para comparar velocidad y rendimiento entre **Groq Cloud** (`openai/gpt-oss-120b`) y un modelo local corriendo con **vLLM** (`QuixiAI/Qwen3-30B-A3B-AWQ`). Útil para decidir qué modelo usar según latencia y tokens por segundo en cada tipo de prompt.
 
@@ -697,3 +697,39 @@ if __name__ == "__main__":
 
     imprimir_tabla(res_groq, res_local)
 ```
+
+### Resultados obtenidos
+
+Se corrió el benchmark con 3 repeticiones por prompt contra los dos modelos. Esto fue la salida:
+
+```
+Prompt                       |          Groq lat |         Local lat | Ganador
+─────────────────────────────────────────────────────────────────────────────
+  Corto — saludo             |    0.26s (±0.02)  |    0.12s (±0.01)  | 🏠 Local
+  Medio — explicacion tecnic |    0.53s (±0.15)  |    0.52s (±0.05)  | ≈ Empate
+  Largo — generacion JSON La |    1.93s (±0.31)  |    6.65s (±0.03)  | ☁  Groq
+  Muy largo — programa compl |    4.00s (±0.30)  |   13.19s (±0.08)  | ☁  Groq
+─────────────────────────────────────────────────────────────────────────────
+
+  Groq  — lat promedio: 1.68s | tok/s promedio: 347.3
+  Local — lat promedio: 5.12s | tok/s promedio: 125.3
+
+  Victorias: ☁ Groq=2 | 🏠 Local=1 | ≈ Empates=1
+```
+
+> **Nota:** En el prompt "Muy largo", Groq devolvió un error 429 (rate limit) en el tercer run porque el modelo tiene un límite de 8 000 tokens por minuto en el tier gratuito. Los dos primeros runs sí completaron.
+
+### ¿Por qué gana Groq en prompts largos?
+
+Groq usa hardware especializado llamado **LPU** (Language Processing Unit) que está diseñado específicamente para inferencia de LLMs. Eso se nota sobre todo cuando la respuesta es larga: generó ~347 tok/s contra ~125 tok/s del modelo local, es decir casi **3 veces más rápido**.
+
+El modelo local (Qwen3-30B corriendo con vLLM) tiene una velocidad bastante constante —alrededor de 154 tok/s sin importar el tamaño del prompt— lo que indica que el cuello de botella es la GPU disponible. Groq en cambio acelera conforme crece la respuesta porque aprovecha mejor el paralelismo de su hardware.
+
+| Situación | Conviene usar |
+|-----------|--------------|
+| Prompts cortos o medianos (< 200 tokens de salida) | Cualquiera, el local es igual o más rápido |
+| Generación larga (JSON complejo, programas enteros) | **Groq** — es hasta 3× más rápido |
+| Muchas peticiones seguidas sin parar | **Local** — Groq tiene rate limit de 8 000 tok/min |
+| Sin conexión a internet o datos sensibles | **Local** — el modelo corre en la red interna |
+
+En resumen: Groq gana en velocidad bruta, pero el modelo local es la opción segura cuando el volumen de peticiones es alto o no se quiere depender de una API externa.
