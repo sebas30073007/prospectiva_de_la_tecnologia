@@ -11,3 +11,6 @@ aux_links:
 search_enabled: true
 heading_anchors: true
 color_scheme: light
+
+mermaid:
+  version: "11"
