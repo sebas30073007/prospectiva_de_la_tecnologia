@@ -19,3 +19,4 @@ Este repositorio es la página del curso: aquí se documentan todas las práctic
 | [Práctica 1](docs/practica-1) | Instalación, ejecución y comparación de modelos LLM locales | Ollama · Hugging Face |
 | [Práctica 2](docs/practica-2) | Benchmark y requerimientos técnicos de LLM | Ollama · Python · Groq API |
 | [Práctica 3](docs/sistema-conectado) | Cómo funciona todo el sistema conectado | GitHub Pages · FastAPI · Groq · Render |
+| [Práctica 4](docs/practica-4) | Chatbot híbrido con APIs externas | Ollama · Gemini API · Groq API |
