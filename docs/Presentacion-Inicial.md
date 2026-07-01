@@ -1,10 +1,10 @@
 ---
-title: Presentación Inicial  
+title: ·Presentación Inicial  
 layout: default
 nav_order: 8
 ---
 
-# ·Presentación Inicial: Prospectiva de la Tecnología
+# Presentación Inicial: Prospectiva de la Tecnología
 
 **Tema:** Autonomous Care · Emotional Outsourcing · Prospectiva tecnológica
 {: .label .label-blue }

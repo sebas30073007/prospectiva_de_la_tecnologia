@@ -24,3 +24,4 @@ Este repositorio es la página del curso: aquí se documentan todas las práctic
 | [Práctica 6](docs/practica-6) | Métricas para evaluación de LLMs con JSON + MQTT | Ollama · FastAPI · MQTT · Métricas|
 | [Presentación Inicial](docs/Presentacion-Inicial) | Presentacion: Prospectiva de la Tecnología | Autonomous Care · Emocional outsurcing|
 | [Presentación Intermedia](docs/Presentacion-2) | Presentación: Proyecto *"Lavo"* | LLM´s · STT · FastsApi · Python ·Código Ladder|
+| [Ladder Voice](https://luiscortesmunoz.github.io/Proyecto_Final_Prospectiva_Tecnologia/) | Proyecto Final *Ladder Voice (LAVO)* | Proyecto Final
