@@ -4,7 +4,7 @@ layout: default
 nav_order: 4
 ---
 
-# Práctica 3 - Front y Back End
+# ·Práctica 3 - Front y Back End
 
 **Arquitectura:** GitHub Pages · FastAPI · Groq API · Render
 {: .label .label-blue }

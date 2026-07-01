@@ -1,5 +1,5 @@
 ---
-title: Práctica 2 — Benchmark y LLMs
+title: ·Práctica 2 — Benchmark y LLMs
 layout: default
 nav_order: 3
 ---

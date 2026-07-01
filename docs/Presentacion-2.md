@@ -1,5 +1,5 @@
 ---
-title: Presentación LAVO  
+title: ·Presentación LAVO  
 layout: default
 nav_order: 9
 ---

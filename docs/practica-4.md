@@ -1,5 +1,5 @@
 ---
-title: Práctica 4 — Copiloto especializado
+title: ·Práctica 4 — Copiloto especializado
 layout: default
 nav_order: 5
 ---

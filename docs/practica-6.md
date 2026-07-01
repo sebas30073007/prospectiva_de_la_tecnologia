@@ -1,5 +1,5 @@
 ---
-title: Práctica 6 — Métricas para evaluación de LLMs
+title: ·Práctica 6 — Métricas para evaluación de LLMs
 layout: default
 nav_order: 7
 ---
