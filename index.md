@@ -21,4 +21,4 @@ Este repositorio es la página del curso: aquí se documentan todas las práctic
 | [Práctica 3](docs/sistema-conectado) | Arquitectura del sistema conectado (front + back) | GitHub Pages · FastAPI · Groq · Render |
 | [Práctica 4](docs/practica-4) | Copiloto especializado | Prompting · System prompts · Perfiles |
 | [Práctica 5](docs/practica-5) | APIs externas (LLM en la nube) | Ollama · Gemini API · Groq API |
-| Práctica 6 | Métricas para evaluación de LLMs | _En integración_ |
+| [Práctica 6](docs/practica-6) | Métricas para evaluación de LLMs con JSON + MQTT | Ollama · FastAPI · MQTT · Métricas|
