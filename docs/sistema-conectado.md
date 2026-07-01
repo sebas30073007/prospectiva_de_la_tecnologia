@@ -1,5 +1,5 @@
 ---
-title: Práctica 3 - Front y Back End
+title: Práctica 3 - Arquitectura Chatbot
 layout: default
 nav_order: 4
 ---

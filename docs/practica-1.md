@@ -1,5 +1,5 @@
 ---
-title: Práctica 1 — LLM con Ollama
+title: Práctica 1 — LLM locales (Ollama)
 layout: default
 nav_order: 2
 ---

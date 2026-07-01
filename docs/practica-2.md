@@ -1,5 +1,5 @@
 ---
-title: Práctica 2 — Benchmark y Requerimientos Técnicos de LLM
+title: Práctica 2 — Benchmark y LLMs
 layout: default
 nav_order: 3
 ---
