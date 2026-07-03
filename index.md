@@ -10,11 +10,11 @@ Este repositorio es la página del curso: aquí se documentan todas las práctic
 
 ## Integrantes del Equipo
 
-**Luis Cortés Muñoz:** Estudiante de décimo semestre de Ingeniería en Mecatrónica y Sistemas Ciberfísicos en la Universidad Iberoamericana. Actualmente trabaja en PepsiCo en el área de Cadena de Suministro, específicamente en Planeación.
+**Luis Cortés Muñoz:** Estudiante de décimo semestre de Ingeniería en Mecatrónica y Sistemas Ciberfísicos en la Universidad Iberoamericana. Actualmente trabaja en PepsiCo en el área de Cadena de Suministro, específicamente en Planeación./n
 
-**Alex Moncada:** Estudiante de décimo semestre de Ingeniería en Mecatrónica y Sistemas Ciberfísicos en la Universidad Iberoamericana.
+**Alex Moncada:** Estudiante de décimo semestre de Ingeniería en Mecatrónica y Sistemas Ciberfísicos en la Universidad Iberoamericana./n
 
-**Sebastián Méndez:** Estudiante de décimo semestre de Ingeniería en Mecatrónica y Sistemas Ciberfísicos en la Universidad Iberoamericana.
+**Sebastián Méndez:** Estudiante de décimo semestre de Ingeniería en Mecatrónica y Sistemas Ciberfísicos en la Universidad Iberoamericana./N
 
 ## Prácticas
 
